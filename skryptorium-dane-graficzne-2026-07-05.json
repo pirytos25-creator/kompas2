@@ -1,0 +1,308 @@
+{
+  "version": 2,
+  "exportedAt": "2026-07-05T20:20:38.961Z",
+  "disclaimer": "Materiał wygenerowany na podstawie transkrypcji. Przed publikacją należy sprawdzić poprawność cytatów, nazwisk, danych osobowych i sensu merytorycznego.",
+  "entries": [
+    {
+      "id": "voice_1783275644658_5bb8nl",
+      "title": "kompas",
+      "speaker": "",
+      "event": "",
+      "sessionType": "",
+      "graphicSummary": {
+        "centralTopic": "Asertowność i jej znaczenie w partycypacji obywatelskiej",
+        "topicMap": [
+          {
+            "topic": "asertowność",
+            "subtopics": [
+              "swiadomość osobista",
+              "wyrażanie potrzeb i emocji"
+            ]
+          },
+          {
+            "topic": "asertywność",
+            "subtopics": [
+              "suwerenność",
+              "granice celne",
+              "zasady celne",
+              "prawo do obrony",
+              "wymagalność",
+              "zdolność do wyrażania własnych potrzeb",
+              "Proces ustanawiania zasad",
+              "Komunikacja asertywnej",
+              "interpretacja",
+              "kontekst",
+              "relacje",
+              "Signatura asertywności"
+            ]
+          },
+          {
+            "topic": "autorytet",
+            "subtopics": [
+              "osoba, której przekonanie jest zasługuje na szacunek"
+            ]
+          },
+          {
+            "topic": "reprezentacja",
+            "subtopics": [
+              "facilitatora",
+              "otoczenie"
+            ]
+          }
+        ],
+        "processFlow": [
+          {
+            "step": "problem",
+            "description": "brak zrozumienia, że asertowność może być barierą"
+          },
+          {
+            "step": "metoda",
+            "description": "refleksja nad doświadczeniami w pracy fascilitatorskiej"
+          },
+          {
+            "step": "przykład",
+            "description": "ćwiczenie refleksji"
+          },
+          {
+            "step": "rekomendacja",
+            "description": "udzielanie czasu na refleksję"
+          },
+          {
+            "step": "problem",
+            "description": "Brak regularnego ćwiczenia umiejętności asertywności"
+          },
+          {
+            "step": "metoda",
+            "description": "Używanie metafory państwa, aby przedstawić cztery kluczowe komponenty asertywności: suwerenność, granice celne, zasady celne oraz prawo do obrony."
+          },
+          {
+            "step": "przykład",
+            "description": "Koralec północny jako przykład zasady izolacjonizmu; Unia Europejska jako przykład negocjacji zasad celnych"
+          },
+          {
+            "step": "rekomendacja",
+            "description": "Zaangażowanie się w proces samouczenia i regularne ćwiczenie asertywności."
+          },
+          {
+            "step": "problem",
+            "description": "Podkreślenie trudności w wyrażaniu asertywności"
+          },
+          {
+            "step": "metoda",
+            "description": "Używanie refleksji do zrozumienia własnych problemów"
+          },
+          {
+            "step": "przykład",
+            "description": "Problem asertywności w grupie"
+          },
+          {
+            "step": "rekomendacja",
+            "description": "Wspieranie refleksji nad własnym zachowaniem i reakcjami"
+          },
+          {
+            "step": "Problem",
+            "description": "Czucie naruszenia granic osobistych"
+          },
+          {
+            "step": "Metoda",
+            "description": "Refleksja nad własnym zachowaniem"
+          },
+          {
+            "step": "Przykład",
+            "description": "Obolałość zaciskającymi się szczękami"
+          },
+          {
+            "step": "Rekomendacja",
+            "description": "Nazwanie potrzeb i komunikacja asertywna"
+          },
+          {
+            "step": "problem",
+            "description": "Zrozumienie, jak asertywność może być interpretowana różnie w różnych kontekstach i relacjach."
+          },
+          {
+            "step": "metoda",
+            "description": "Asertywność jako propozycja działania akceptowalnego przez inną osobę"
+          },
+          {
+            "step": "przykład",
+            "description": "Przykład: mówiąca miała konflikt z innymi w swoim osiedlu i odmawiała rozmów z facetami."
+          },
+          {
+            "step": "rekomendacja",
+            "description": "Rekomendacja uwzględnienia kontekstu i relacji przy przekazywaniu asertywności, aby osiągnąć komunikację efektywniejszą"
+          },
+          {
+            "step": "problem",
+            "description": "Znaczenie przekonań na zachowania"
+          },
+          {
+            "step": "metoda",
+            "description": "Nauka proasertywnych formułek"
+          },
+          {
+            "step": "przykład",
+            "description": "Praktyki z formułkami"
+          },
+          {
+            "step": "rekomendacja",
+            "description": "Budowa relacji poprzez komunikację otwarta"
+          }
+        ],
+        "knowledgeCards": [
+          {
+            "title": "Asertowność",
+            "type": "concept",
+            "content": "Wysoka świadomość osobista i skuteczne wyrażenie swoich potrzeb i emocji."
+          },
+          {
+            "title": "Suwerenność",
+            "type": "concept",
+            "content": "Wewnętrzna determinacja na podstawie własnych granic"
+          },
+          {
+            "title": "Granice celne",
+            "type": "concept",
+            "content": "Decydowanie co wpuszcza na nasze terytorium, a co nie."
+          },
+          {
+            "title": "asertywność",
+            "type": "concept",
+            "content": "wymagalność i zdolność do wyrażania własnych potrzeb"
+          },
+          {
+            "title": "autorytet",
+            "type": "concept",
+            "content": "osoba, której przekonanie jest zasługuje na szacunek"
+          },
+          {
+            "title": "Komunikacja asertywnej",
+            "type": "method",
+            "content": "Nazwanie czego potrzebuje i jak to chce ustanowić przez komunikację"
+          },
+          {
+            "title": "Reprezentacja facilitatora",
+            "type": "concept",
+            "content": "Opublikowane podejście do pracy jako facilitator"
+          },
+          {
+            "title": "Metoda asertywności",
+            "type": "method",
+            "content": "Stosowanie propozycji działania, które są akceptowalne przez inną osobę w dany kontekst"
+          },
+          {
+            "title": "Formuły proasertywne",
+            "type": "example",
+            "content": "'Jestem osoba asertywna'"
+          },
+          {
+            "title": "Przekonań naszych",
+            "type": "concept",
+            "content": "Mysłów lub doświadczeń, które wywołują pewne zachowanie"
+          }
+        ]
+      },
+      "visualPrompt": "Infografika przedstawiająca koncepcję asertywności, jej kluczowe elementy (suwerenność, granice celne, zasady celne, prawo do obrony), metodykę oceny asertywności oraz relację między asertywnością a komunikacją w grupie. Podkreśla problemy związane z granicami osobistymi i autorytetem w procesach facilitacyjnych.",
+      "concepts": [
+        {
+          "term": "asertowność",
+          "definition": "wysoka świadomość osobista i skuteczne wyrażanie swoich potrzeb i emocji"
+        },
+        {
+          "term": "kompetencje osobiste",
+          "definition": "świadomość własnych granic, potrzeb, emocji i wartości"
+        },
+        {
+          "term": "asertywność",
+          "definition": "składnica zdolności do wyrażania swoich potrzeb, wartości i granic"
+        },
+        {
+          "term": "suwerenność",
+          "definition": "wewnętrzna determinacja na podstawie własnych granic"
+        },
+        {
+          "term": "granice celne",
+          "definition": "powłoka graniczna pomiędzy własnym terytorium a zasobami inne strony"
+        },
+        {
+          "term": "autorytet",
+          "definition": "osoba, której przekonanie jest zasługuje na szacunek"
+        },
+        {
+          "term": "granice osobiste",
+          "definition": "zakres akceptowalności zachowań innych osób wobec nas"
+        },
+        {
+          "term": "reprezentacja facilitatora",
+          "definition": "opublikowane podejście do pracy jako facilitator"
+        },
+        {
+          "term": "przekonanie",
+          "definition": "myśl lub doświadczenie, które wywołuje pewne zachowanie"
+        }
+      ],
+      "methods": [
+        {
+          "name": "refleksja",
+          "description": "ćwiczenie refleksji nad swoim stanem emocjonalnym i osobistym"
+        },
+        {
+          "name": "zadanie rundki",
+          "description": "poproszenie uczestników o podzielenie się doświadczeniami"
+        },
+        {
+          "name": "metafora państwa",
+          "description": "Używanie metafory, aby przedstawić cztery kluczowe komponenty asertywności: suwerenność, granice celne, zasady celne oraz prawo do obrony."
+        },
+        {
+          "name": "refleksja nad własnym zachowaniem",
+          "description": "Analiza sytuacji, gdzie czuje naruszenie granic osobistych."
+        },
+        {
+          "name": "asertywność",
+          "description": "stosowanie propozycji działania, które są akceptowalne przez inną osobę w dany kontekst"
+        },
+        {
+          "name": "praktyki z przekonaniami",
+          "description": "Nauka proasertywnych formułek poprzez regularne ćwiczenie"
+        },
+        {
+          "name": "dialog",
+          "description": "Korekta formułek na podstawie własnego doświadczenia"
+        }
+      ],
+      "problems": [
+        "brak zrozumienia, że asertowność może być barierą w praktyce relacyjnej i procesów partycypacji obywatelskiej",
+        "trudność w akceptowaniu zmian w planach podczas prowadzenia procesu",
+        "Brak regularnego ćwiczenia umiejętności asertywności",
+        "brak zrozumienia własnych granic osobistych",
+        "trudności w akceptacji różnorodności stanowisk międzypłciowych",
+        "Brak jasności co do momentu i sposobu obrony granic osobistych.",
+        "Personalizacja braku asertywności, co prowadzi do trudności w współpracy z innymi.",
+        "Zrozumienie, jak asertywność może być interpretowana różnie w różnych kontekstach i relacjach.",
+        "Problem unikania konfliktu i niezgodności ze swoim podejściem do rozmów.",
+        "Ból emocjonalny związany z konfrontacją ze swoimi antyasertywnymi przekonań"
+      ],
+      "recommendations": [
+        "Udziel czasu na refleksję nad własnymi doświadczeniami w pracy fascilitatorskiej, aby zrozumieć, jak asertowność może ułatwić praktykę relacjonową.",
+        "Zaangażować się w proces samouczenia i regularne ćwiczenie asertywności.",
+        "wspieranie refleksji nad własnym zachowaniem i reakcjami",
+        "Osoba powinna nazwać czego potrzebuje i jak to chce ustanowić przez komunikację.",
+        "Zrozumienie zasad relacji i ich stosowania dla lepszego funkcjonowania.",
+        "Rekomendacja jest kwestią uwzględnienia kontekstu i relacji przy przekazywaniu swojej asertywności, aby osiągnąć komunikację efektywniejszą.",
+        "Nauka i praktyka proasertywnych formułek jako narzędzie rozwijania asertywności."
+      ],
+      "keywords": [
+        "asertowność",
+        "kompetencje osobiste",
+        "praca fascilitatorska",
+        "refleksja",
+        "asertywność",
+        "suwerenność",
+        "granice celne",
+        "zakres",
+        "negocjacja",
+        "autorytet"
+      ]
+    }
+  ]
+}

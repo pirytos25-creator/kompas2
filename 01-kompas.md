@@ -1,0 +1,485 @@
+# kompas
+
+> ⚠ Materiał wygenerowany na podstawie transkrypcji. Przed publikacją należy sprawdzić poprawność cytatów, nazwisk, danych osobowych i sensu merytorycznego.
+
+**Data dodania:** 5 lip 2026, 21:05  
+**Czas nagrania:** 89:14 · 10500 słów
+
+## Streszczenie merytoryczne
+
+Wystąpienie skupia się na asertowności i jej znaczeniu w partycypacji obywatelskiej. Autor podkreśla konieczność zdobywania świadomości osobistej, umiejętności komunikacyjnych i narzędziowych do efektywnego prowadzenia procesów partycypacji obywatelskiej. Analizuje asertywność jako kluczową umiejętność wyrażania własnych potrzeb, zwracając uwagę na problematykę granic osobistych oraz adaptację do różnych sytuacji. Propusza ćwiczenia refleksyjne i naukę proasertywnych formułek, podkreślając potrzebę relacyjności w procesach facilitacyjnych.
+
+## Główne tezy
+
+- Asertowność jest kluczową kompetencją dla efektywnego prowadzenia procesów partycypacji obywatelskiej.
+- Asertywność to umiejętność wyrażania własnych potrzeb i granic w sposób respektujący granice innych stron.
+- Asertywność może być trudna do wyrażenia, szczególnie w sytuacjach silnego autorytetu.
+- Asertywność to proces ustanawiania własnych zasad i komunikowania ich do innych.
+- Asertywność jest zawsze kontekstualna i może być interpretowana różnie w zależności od otoczenia.
+- Przekonań naszych wpływa na zachowania, a nauka proasertywnych formułek pomaga w rozwijaniu asertywności.
+
+## Konspekt
+
+## Asertowność w partycypacji obywatelskiej
+- Definicja asertowności
+- Ważność dla efektywnego prowadzenia procesów partycypacji
+- Przykłady refleksji nad doświadczeniami
+- Czesc zadawania pytań o doświadczenia audytorów
+## Asertywność
+- Suwerenność, granice celne, zasady celne, prawo do obrony
+- Metoda oceny asertywności (metafory państwa)
+- Adaptywne ćwiczenie umiejętności asertywności
+## Granice osobiste
+- Problem asertywności i autorytetu w procesach facilitacyjnych
+- Wyzwania związane z granicami osobistymi, zrozumieniem i akceptacją własnych granic
+- Reakcje na zachowania innych w grupie
+## Relacje i asertywność
+- Szacunek dla innych, relacyjność
+- Personalizacja braku asertywności
+- Wpływ na działanie podczas spotkań
+## Asertywność w komunikacji
+- Opis doświadczenia z asertywności
+- Zmiany w rozwinięciu społecznym, reprezentacja i relacje
+- Rola facilitatora jako akuszerka
+## Przygotowanie do rozwijania asertywności
+- Definicja przekonań, signatura asertywności
+- Nauka proasertywnych formułek
+- Wpływ na zachowania
+- Praktyki z formułkami
+- Budowa relacji poprzez komunikację otwarta
+
+## Pojęcia
+
+- **asertowność** — wysoka świadomość osobista i skuteczne wyrażanie swoich potrzeb i emocji
+- **kompetencje osobiste** — świadomość własnych granic, potrzeb, emocji i wartości
+- **asertywność** — składnica zdolności do wyrażania swoich potrzeb, wartości i granic
+- **suwerenność** — wewnętrzna determinacja na podstawie własnych granic
+- **granice celne** — powłoka graniczna pomiędzy własnym terytorium a zasobami inne strony
+- **autorytet** — osoba, której przekonanie jest zasługuje na szacunek
+- **granice osobiste** — zakres akceptowalności zachowań innych osób wobec nas
+- **reprezentacja facilitatora** — opublikowane podejście do pracy jako facilitator
+- **przekonanie** — myśl lub doświadczenie, które wywołuje pewne zachowanie
+
+## Metody partycypacyjne
+
+- **refleksja** — ćwiczenie refleksji nad swoim stanem emocjonalnym i osobistym
+- **zadanie rundki** — poproszenie uczestników o podzielenie się doświadczeniami
+- **metafora państwa** — Używanie metafory, aby przedstawić cztery kluczowe komponenty asertywności: suwerenność, granice celne, zasady celne oraz prawo do obrony.
+- **refleksja nad własnym zachowaniem** — Analiza sytuacji, gdzie czuje naruszenie granic osobistych.
+- **asertywność** — stosowanie propozycji działania, które są akceptowalne przez inną osobę w dany kontekst
+- **praktyki z przekonaniami** — Nauka proasertywnych formułek poprzez regularne ćwiczenie
+- **dialog** — Korekta formułek na podstawie własnego doświadczenia
+
+## Przykłady i wdrożenia
+
+- ćwiczenie refleksji nad własnymi doświadczeniami w pracy fascilitatorskiej
+- Koralec północny jako przykład zasady izolacjonizmu; Unia Europejska jako przykład negocjacji zasad celnych
+- Problem asertywności w kontekście autorytetu
+- Przykładowa sytuacja, w której osoba czuje się obolała zaciskającymi się szczękami po uznaniu prośby na spotkanie.
+- Przykład: mówiąca miała konflikt z innymi w swoim osiedlu i odmawiała rozmów z facetami.
+- Mówca zaproponowała skoncentrowanie się na proasertywnych przekonań i propozycję wyrażenia zdań takich jak: 'Jestem osoba asertywna'
+
+## Problemy i wyzwania
+
+- brak zrozumienia, że asertowność może być barierą w praktyce relacyjnej i procesów partycypacji obywatelskiej
+- trudność w akceptowaniu zmian w planach podczas prowadzenia procesu
+- Brak regularnego ćwiczenia umiejętności asertywności
+- brak zrozumienia własnych granic osobistych
+- trudności w akceptacji różnorodności stanowisk międzypłciowych
+- Brak jasności co do momentu i sposobu obrony granic osobistych.
+- Personalizacja braku asertywności, co prowadzi do trudności w współpracy z innymi.
+- Zrozumienie, jak asertywność może być interpretowana różnie w różnych kontekstach i relacjach.
+- Problem unikania konfliktu i niezgodności ze swoim podejściem do rozmów.
+- Ból emocjonalny związany z konfrontacją ze swoimi antyasertywnymi przekonań
+
+## Rekomendacje
+
+- Udziel czasu na refleksję nad własnymi doświadczeniami w pracy fascilitatorskiej, aby zrozumieć, jak asertowność może ułatwić praktykę relacjonową.
+- Zaangażować się w proces samouczenia i regularne ćwiczenie asertywności.
+- wspieranie refleksji nad własnym zachowaniem i reakcjami
+- Osoba powinna nazwać czego potrzebuje i jak to chce ustanowić przez komunikację.
+- Zrozumienie zasad relacji i ich stosowania dla lepszego funkcjonowania.
+- Rekomendacja jest kwestią uwzględnienia kontekstu i relacji przy przekazywaniu swojej asertywności, aby osiągnąć komunikację efektywniejszą.
+- Nauka i praktyka proasertywnych formułek jako narzędzie rozwijania asertywności.
+
+## Cytaty warte zachowania
+
+- "Jestem facetizatorem również i przychodzącą, wiesz, jakby... zesję tutaj."
+- 'Jeżeli my będziemy się badać będziemy złościć i tak dalej one jakby nie zadziałają będą złości i agresji czyli naruszenia granic drugiej osoby'
+
+## Pytania do dalszej analizy
+
+- Jak asertowność wpływa na skuteczność pracy fascilitatorskiej w procesach partycypacji obywatelskiej?
+- Jak podejść do negocjacji z innymi stronami, aby uzyskać równowagę między własnymi potrzebami a granicami drugiej osoby?
+- Jakie są powagi problemu asertywności w sytuacjach silnego autorytetu?
+- Czy asertywność jest skrajna koniecznością w każdej sytuacji? Czy szacunek dla innych może być zgodny z obroną swoich granic?
+- Jak asertywność może mieć różne znaczenia w różnych kontekstach i relacjach?
+- Czy jest możliwe dobre zrozumienie asertywności bez przekonania do niej?
+- Jak praktycznie zastosować proasertywne formułki w codziennych sytuacjach?
+- Jak możemy zrealizować prawo do samokształcania się i uczestnictwa w decyzjach społecznych?
+
+## Słowa kluczowe
+
+asertowność, kompetencje osobiste, praca fascilitatorska, refleksja, asertywność, suwerenność, granice celne, zakres, negocjacja, autorytet
+
+## Transkrypt (oczyszczony)
+
+Będziemy spraktykować. Na początku? Tak.
+
+Jako pierwsze oddaję głos specjalistce. Słuchajcie, wiecie co? W związku z tym, że prowadzimy taki program z budową stocznia, chcemy część sesji nagrać i wrzucić do AI, aby zrobić podsumowania. Tutaj Agnieszka się zgodziła, żeby była nagrywana. Czy nie będziecie mieli obiekcji na to? To tylko szybkie skasowanie, chodzi o to, żeby nagrać na potrzeby podsumowania nic innego.
+
+Głos. Zaraz tak. Głos, absolutnie, ananimizacja. Chodzi tylko o przygotowanie podsumowania i nie będzie udostępnione gdziekolwiek. Ja to będę miał w mojej fundacji, ale z akademii. Tak? Dziękuję wam bardzo.
+
+Fajnie. Tak, to jest do was ok, super. Słuchajcie. Uuuu, co będzie działo się? Może daruję sobie taką taką rundkę, bo jako aserwtywność zakładam, że jeżeli tutaj przyszłyście, to temat asertowności was interesuje. Chcę porozmawiać z perspektywy pracy fasilitatorskiej, choć jest to kompetencja ogólnie potrzebna w życiu.
+
+Janos, co się wydarzy? Opowiem Wam w paru zdaniach jak myślę o asertowności. Natomiast potem zaproszę Was do dwóch ćwiczeń – momentów refleksji. To znaczy dam Wam pewne materiały, żebyście mogły sama się zastanowić, jak u Was jest za asertywnością na co dzień.
+
+I potem się zastanowimy w jakich obszarach pracy fascilitatorskiej ta asertowność jest potrzebna i przydatna. A potem zaplanowałam drugi moment refleksji – czego sprzyja asertywności, a co jej nie sprzyja. To znaczy, jak to możemy zadziałać dla siebie, żeby byli bardziej asertywni albo aby nie napotykały na bariery w asertowności. Zobaczycie, potem postaram się to przełożyć na praktykę pracy fasilitatorskiej.
+
+Mam w sumie na rytorycznych slajdach 5 czy 6 i tyle – mniej szkolenia wspólnego na mezu. To na czym się będę opierać merytorycznie. Słuchajcie, to jest takie podejście, ja to puszczam. Jest taka książka, nie wiem, czy ktoś z Was trafił na taką, że w te stanowcze łagodnie bez lęku i asertowności. Bardzo fajny taki podręcznik.
+
+Materiały, z których korzystam, są stąd, więc jeżeli która z Was chciałaby sobie poszukać merytoryki – to jest najlepszy na co ja trafiłam, żeby zrobić zdjęcie, przejrzeć. Na co trafiłam w moim zawodowym życiu, jeżeli chodzi o wskazówki do asertowności – bardzo krótkie potTouchUpInside. Tylko to jest taki bardzo fajny materiał.
+
+Jeżeli któryś z Was chciałby poszukać merytoryki, to jest tam podany adres. Jest takiego mixu tutaj, ja jestem w takim krótkiem formacie. No dobra. To jest dużo od tego. Powiem jeden slajd i zapraszam Was do dyskusji. Poprosiłabym, żebyście się odzywały już o temacie niż każdy osobie – robią rundki, opowiadania.
+
+Jak będziecie chcieli, chciałabym powiedzieć, co wy robicie, jak to się ma do Waszej pracy, to zapraszam. Jak zbiornicy chcę zabierać głos, żeby o sobie parę słów mógł dodać.
+
+Czemu te asertowność? To wyszło z tego, że zadałam sobie pytanie, czego potrzeba osobie fascilitującej, aby była skuteczną osobą. Aby była skuteczna w swojej pracy.
+
+Tak naprawdę to pytanie poprowadziło mnie do refleksji, czy pracujemy narzędziami fascilitatorskimi, czy pracujemy sobą? Moje ja by powiedziała: niech to się zgadza, że jednak pracujemy sobą i że narzędzia, techniki, umiejętności – wszystko git. Ale jak my, już to, kto nie miał tak zepsutego dnia i po prostu wszystkie narzędzia można sobie wsadzić do klasera i zapomnieć?
+
+A czy skuteczność pracy fascilitacyjnej to jest pracą z ludźmi? Pracą relacją. W związku z czym, ja bym ustawiała to co jest nam potrzebne w takiej kolejności jak tu ustawiłam.
+
+Przed wszystkim kompetencje osobiste – taka sama świadomość, gdzie są moje granice, jakie sytuacje te granice przekraczają, jakie mam potrzeby, emocje i wartości. Z czego reaguję, próba dobrać grupę. Bo dla mnie rola osoby fascilitującej to jest rola osoby, która na pewien moment przewodniczy tej grupie, niekoniecznie merytorycznie, natomiast przewodniczy w tym, jak my będziemy tutaj przez następne dwie godziny dwa dni deliberować.
+
+Jeżeli ja stoję mocno na nogach, jestem w tym osadzona, ale ta pewna siebie się wyrywa z tego, że rozumiem, wiem, co robię, ale też widzę swoje granice i potrafię być w tym asertowna. I właśnie stąd ta asertowność mi się pojawiła jako ten ważny temat.
+
+Te moje kompetencje osobiste będą mnie wspomagać. I oczywiście kompetencje komunikacyjne – pięknie parafrazujemy, pięknie, jakby zbieramy informacje i tak dalej. Uważnie słuchamy. To wszystko jest super, tylko jak my nie jesteśmy w dobrym samoświadomości, to jest troszkę mało.
+
+I oczywiście jest ta cała warstwa narzędziowa – mamy lata doświadczenia, wiemy jak u nas spotkania, wiemy ile zaplanować, że ludzie się spóźniają, umiemy ładnie na flipach pisać. To wszystko pomaga. Tylko wydaje mi się, że to są spełnienia.
+
+To jest taka moja praca z którą przychodzę: rzeczywiście praca fascilitacyjna to jest trochę pracą sobą i relacją z innymi. Natomiast moje pytanie jest też takie – to jest autorska nasza klasyfikacja, napisałam to z głowy, ale jak bardzo ładnie mi je ułożył Eja.
+
+Jakie są wasze doświadczenia? Na ile się zgadzacie? Do której części przebieszały? Czego brakuje?
+
+Pracując ponad 15 lat w partycypacji w mieście i prowadząc really easy i hard-core procesy konsultacyjne, teraz pracując warsztatowo, widzę po sobie, jak się zmieniłam. Mocniej stanęłam w sobie i te umiejętności. Niechże narzędzia będą tylko kwestią – na zna mnie metapodziem spotkania, grupy, konsultacji, w partycypacji jest najważniejsze.
+
+Jeśli to mi nie zadziała, jak czasem czuję, bo jest inny dzień. Rozumiem, że muszę inaczej do innych zasobów się niemać. To jest praca na własnych zasobach. Rozpoznawanie zasobów grupy – to jest też popularne polskie słowo.
+
+Jak bardzo grupa rezonuje, to jest coś niesamowitego. Ja uważam, że bardzo w to wierzę. Jeśli absolutnie się zgadam, dodałabym może jeszcze pracę z emocjami, bo gdzieś tam to jest bardzo ważny komponent – bo one się zawsze pojawiają i właściwie wyrażamy się dobrze czytamy.
+
+Samo świadomość, że tu są jakieś rozumienie swoich potrzeb, reakcji, emocji, wartości. Czy też do nas trafiają te emocje od ludzi. Myślę, że też takie – jeżeli na pewno jesteśmy pewni siebie i wiemy, co robimy, to sobie z tym emocjami poradzimy, ale czasami one potrafią też zrobić nieco złego bałagamy.
+
+To jest jedno z największych złudzeń, że my jakoś jesteśmy racjonalne, wiesz w sensie taką miarkowanie? Bo mi się wydaje, że... Zgadzam się z tym. To jest coś co też gdzieś tam mam z tyłu głodu, tylko mi się wydaje, że w tych narzędziach bardzo ważne jest, żeby się śmiać – że jest cel.
+
+Bo tu mamy tutaj ten plan spotkania kontrakt z osadą, ale też cel realny, który mamy gdzieś tam zakontraktowany i cel ukryty. Bo często jest tak, że fascilitujemy jakieś procesy, a nie są o czymś, a tak naprawdę gdzieś tam ktoś ma jeszcze coś innego, o czym musimy wiedzieć, a czasami są nam niezakomunikowane.
+
+To jest wstęp i to takie definiowanie – umiejętność do definiowania celu. Ja nie chciałam głośno mówić ościem, ale tak, realnie to się sprowadza. Ej, mam to przepisze na ładne słowo.
+
+O co innego chodziło. Dzięki.
+
+Jeszcze do ciebie. Ja chciałam tutaj wyrzucić chyba coś, co trochę się łączy z różnymi tymi okazjami, ale taka elastyczna odpowiedzialność. To łączy się z takim aktywnym słuchaniem, ale też z narzędziami. Aby zareagować, czy się zmienić to, co mamy zaplanowane, bo ja czasami mam coś zaplanowanego, z czym potem zaprzynam i widzę, że muszę pokombinować. W sensie, że to jest taka odpowiedzialność, tak? Ale to nie tylko, bo ja mogę aktywnie słuchać i cisnąć jakby swój plan. Albo mogę aktywnie słuchać, patrzeć co się dzieje i na to reagować.
+
+To proces ponad założeniami troszeczkę. To poza celem spotkania. Myślę, że mało, ale za dostawy techniki, nie używają ich. Tak, znaczy tak. To jest o tym takim umiejętnością dostosowywania się i faktycznie to jest też kompetencja, którą możemy ćwiczyć, pewnie unabędźemy, nie wiem ile ma tyle doświadczenia, ale pewnie jak ktoś zaczyna to się trzyma planu z zegarkiem, a potem zwykle mamy trochę więcej swobody.
+
+Ten podział był jakiś jest, bo lubimy podziały. Na trzy najlepiej, jak barakowa ma. To są te techniki, tak? Natomiast ta otwartość elastyczna jest między kompetencjami a narzędziami. Skoro ja nie mam głodu, to ja się zauważyłam dużo. Ja próbowałam na śniśni i to chciałam, żebyśmy byli śni, jak wcześniej, ale ja się zapraszam, ale z naciskiem to wchodzi. Nie skazać tak, ale jestem zresztą, że to jest praca na plusie, jednak natomiast jest tu rodzaj napięcia.
+
+Ten podział był jakiś jest, bo lubimy podziały. Na trzy najlepiej, jak barakowa ma, ale jakby... To są te techniki, tak? Natomiast ta otwartość elastyczna jest między kompetencjami a narzędziami. Skoro ja nie mam głodu, to ja się zauważyłam dużo. Ja próbowałam na śniśni i to chciałam, żebyśmy byli śni, jak wcześniej, ale ja się zapraszam, ale z naciskiem to wchodzi.
+
+To jest o tym takim umiejętnością dostosowywania się i faktycznie to jest też kompetencja, którą możemy ćwiczyć, pewnie unabędźemy, nie wiem ile ma tyle doświadczenia, ale pewnie jak ktoś zaczyna to się trzyma planu z zegarkiem, a potem zwykle mamy trochę więcej swobody.
+
+To jest o tym takim umiejętnością dostosowywania się i faktycznie to jest też kompetencja, którą możemy ćwiczyć, pewnie unabędźemy, nie wiem ile ma tyle doświadczenia, ale pewnie jak ktoś zaczyna to się trzyma planu z zegarkiem, a potem zwykle mamy trochę więcej swobody.
+
+To jest o tym takim umiejętnością dostosowywania się i faktycznie to jest też kompetencja, którą możemy ćwiczyć, pewnie unabędźemy, nie wiem ile ma tyle doświadczenia, ale pewnie jak ktoś zaczyna to się trzyma planu z zegarkiem, a potem zwykle mamy trochę więcej swobody.
+
+To jest o tym takim umiejętnością dostosowywania się i faktycznie to jest też kompetencja, którą możemy ćwiczyć, pewnie unabędźemy, nie wiem ile ma tyle doświadczenia, ale pewnie jak ktoś zaczyna to się trzyma planu z zegarkiem, a potem zwykle mamy trochę więcej swobody.
+
+To jest o tym takim umiejętność wyrażenia siebie, ale bez tej konieczności, opuszczę, że muszę walczyć, jakby coś narzucić, bo inaczej, nie wiem, że moje zdanie jest jakiejś zagrożone, tylko w kontekście podzielenia się i chyba będzie też takim autentycznym i spójnym, że takie właśnie zdolność, umiejętność wyrażenia siebie i czasami jest to głos wspólny z innymi, ale czasami zupełnie inny.
+
+I also kojarzę mi się to z ojżeołością emocjonalną. Tak, znaczy, im więcej tej ojżyości tym łatwiej asertywność. Zazwyczaj tak, tu mamy... Może nawet związek przyczynowo skupowanie tylko korelacji.
+
+To jest bardzo dużo rzeczy, o których mówicie. Więc ja... one wszystkie się nie w tym zawierają w tym... w tym o czym ja mówię o asertywności. Ja tam dokładam jeszcze troszeczkę.
+
+I teraz tak, taka jak się uczyła ma asertywności samą, to to co mi bardzo pomogło, ja osobiście dobrze działam na metaforach, to była metafora. I moi nauczyciele asertywności mówili o trochu metaforze państwa. Znaczy używali takich określeń. Ja się nie uposłużę.
+
+Mam nadzieję, że będzie dla was jakoś pomocna, bo ona pokazuje cały zakres tego, czym jest asertywność. I oczywiście tu wychodzimy od komunikowania o moich granicach, natomiast oni sobie tak naprawdę... Mnie to bardzo pomogło.
+
+Powiedzieli, że ta asertywność składa się tak, jak w przypadku każdego państwa, który jest niepodległego z czterech komponentów. Po pierwszych jest ta suwerenność. Znajomość, że mam pełne prawo do posiadania własnych potrzeb i decyzji tak jak każde państwo ma prawo do swojej integralności.
+
+To jest o tym, o tym byciu w sobie, ale też o tym, że jakby nikt z zewnątrz nie ma prawa mi mówić o moich wartościach, o tym co mogę czuć, na czym mi zależy, czego mogę potrzebować. Więc to jest tak naprawdę taka... Pierwsza podstawowa kwestia asertywności dopóty ja się nie czuję pełnią, znaczy w tej mojej suwerenności dopóty bardzo trudno mi będzie ją egzekwować.
+
+Po drugie to są te rozstawy celne. To jest świadomym decydowanie, co wpuszcza na moje terytorium i czego nie akceptuje. Czyli jak wstykasz się ze mną, moim państwem, inne państwo, na coś się zgadzam, na coś nie.
+
+I wiecie, my możemy być korałowe północną, która jakby myśli o swoje suwerenności, ale te granice są bardzo, bardzo nieprzepuszczalne. Efekt tego jest... właśnie jak operujemy metaforę, jest izolacjonizmem i są osoby, które mają suwerenne prawo podejmować metodę polityki izolacjonizmu.
+
+Ale możemy być też trochę jak unia europejska, którą jest idealnie albo nie, ale to jest ten case, że każde państwo jest jakoś suwerenne. Natomiast te zasady celne cały czas negocjujemy, ponieważ gdzieś tam widzimy, że z tego negocjowania, dogadania się na te zasady celne, mamy jakieś korzyści.
+
+Mniej osobiście jest bliżej właśnie do tej wizji, to wymaga, wiemy, czasu, czasami frustracji, dużo dyplomacji, dużo cierpliwości. Natomiast jakby suma sumaru, jak sobie dla mnie wytrącają... więc jest to jakimś dobrym przykładem, że można dochować swoją suwerenność, ale jednocześnie bardzo dużo wpuszczając na swoje terytorium.
+
+Natomiast to musi się odbywać na zasadach tego, że ja wiem, kim jestem, co wpuszczam, czego nie wpuszczam. To też może uznać, że czasami decyduję się nadejść, co dla mnie nie jest najzwygodniejsze. Jest wygodniejsze w tym momencie dla partnera, to nie oznacza, że ja nie jestem asertywna.
+
+Tylko to oznacza, że ja się zastanawiałam, dobra, tym razem znaczy tak, ale tylko to ma być moja decyzja. Tak? I różnica między, znaczy w sensie zgoda na coś, co nie jest dla nas najwygodniejsze, np. propagacjonalności i tak, i planu itd.
+
+Wcale nie musi oznaczać, że ja jestem nieasertywna, o ile ja podjęłam to wynika z mojej suwerenności. Jak ktoś ma dzieci, to wie jak to jest. To o sercu boskim, tak? To jest o tym. To znaczy w sensie nie jesteśmy Donaldem Trumpem, który myśli, że jest superasertywny, ale po prostu zachowuje się jak... Chciałam powiedzieć niegrzeczny bachord, to znaczy w sensie rozumienia kogoś, kto tupie nóżką, nie respektuje innych ich rzeczy.
+
+To jest właśnie jak bud z Bożem, brzmi lepiej. Ale to się wydaje... On się wydaje, że jest o sercu boskim, bo tylko to nie jest... Prawdziwa asertywność, racjonalna, spokojna i to mówienie nie. To jest ta dyplomacja w tej metaforze, bez naruszania suwerenności innych, ale komunikowanie tej granicy.
+
+Tak? I zatem jest oczywiście prawo do obrony. Jak ja komunikuję a ktoś ma to w poważaniu, to ja mam prawo się bronić. Ale jest polityka międzynarodowa takie, powiedzieli, jak słuszna wojna, tak? I to jest wojna od obrony.
+
+A nie, bo tak, bo ja innym pokażę, znaczy wojna, żeby pokazać, że jestem silna i budować moją pozycję międzynarodową. To nie jest słuszną ważną. Cała społeczność, no nie cała, ale powiedzmy, społeczność narodowa, dyplomacja uznaje za tą właściwą drogę.
+
+I dla mnie to porównanie, więc ono tak dobrze obrazuje, że to nie jest tylko o zasadach celnych, nie tylko o obronie. To jest w ogóle z czego to wynika, tak, tak głębiej.
+
+No i tak samo, bardzo podobnie tak samo będę w tej jak przełożymy nadmiar asertywności na pracę faciliterską, tak? Ja też o tym myślę, że ja tam mam pewną rolę określoną.
+
+Troszkę im mą niż na przykład rolę osób, które uczestniczą w spotkaniu, ale też jakby to, co się dzieje w całym czasie spotkania. To jest całe negocjowanie tych, znaczy wchodzimy z jakimś założeniem. No ale ustalają kontrakt na przykład mówiąc o pewnych procedurach, jak będziemy pracować. Ja dopuszczam, ile na przykład tych zasad celnych ewentualnie zmienię po usłyszeniu tego czy obserwacji tego, co się dzieje w grupie. Więc nawet zostawy i kontrakt spotkania w pewnym zakresie mogą być na przykład negocjowalne, no to dzieje się, bo to jest proces.
+
+Zanim sobie przejdziemy do pracy fascynacyjnej, chciałam wam dać taką odgadź w ogóle za przyjrzenie się sobie, jak to u nas jest tak personalnie przez tę przywnością. I mam dla was to indywidualnie. To co powiecie, co z tego wynika, będzie waszym wyborem. Nie musicie mówić nic. Słuchajcie, mam dla was, to jest dokładnie z tej książki, tak? Do paru minut refleksji indywidualnej będzie punktem wyjścia potem do dyskusji. Taką listę różnych sytuacji, które tutaj autorka tej książki, jakby pokazuje sytuację, na których możemy ocenić, jak się ma nasza asertywność. Ta lista na razie dotyczy po prostu życia. Ta was osobiście nie dotyczy jeszcze sytuacji stricte, fascyn klasyjnych.
+
+Puszcza wam przyjrzyjcie się jej, to dla was zostaje. Tutaj w pierwszej kolumnie odpowiadacie tak raczej tak, drugiej nie raczej nie, a jak jest kółeczko w kolumnie, to znaczy, że jak zaznaczy to pole z kółeczkiem, to być może wam trochę serca w ności tutaj, macie je troszkę mało jeszcze. Natomiast jest też taka ogólna lista diagnożyczna. Puszcza miał, żebyście miały chwilę odróż swoje refleksje, ale też żebyście zobaczyły ilu oszerach autorka proponuje, że ta asertywność jest. Więc parę minut dla was. Ja będę zerkać, jak sobie skończycie z nią pracować, tak jak podniesiecie głowę, będę wiedziała, że możemy dalej rozmawiać.
+
+Pasa, tak. Chcesz potrzebuję? Chcesz potrzebuję długopisów? Ja bym chciała. Ja wiem, że to jest nitychowa sytuacja na forum, że jesteś mi cicho, ale można pobyć w dialogu ze sobą. Nie, nie musicie podniczyć, słuchajcie.
+
+To jest. Tu nie ma takiej klasy, że 10 pułków to dobrze, 10 lat. To jest dla was. Jak się zastanawiacie, co z tym robić, to czułżeczkę polecam, jak on się otrzymał.
+
+Są jakieś szczęścia osób, które zamarzyszą jeszcze 2 minutki? Dobra? Chciałabyście sobie pytali to? No dobra. Widzę, że tak większość osób już ma głowy podniesione. Słuchajcie, zadam dwa pytania na raz, które chciałabym, żeby nam towarzyszyły w dyskusji. Możecie odpowiadać na te, które pierwsze chcecie, ale ona powstydrowa zainteresowanie.
+
+Pierwsze pytanie jest takie, czy to jest na to bliska? Tak, nie jest moja lista, ale ja też w tej chwili się nie robiłam pierwszy raz. Czy są jakieś obszary, które was jakoś szczytli? Zacznę od nich, czy to nie kojarzyła mi z tym aspektem nością, albo okół, czy widzę, że ten oszal to jest jakiś taki... dla mnie szczególnie trudny. Albo w ogóle macie jakieś refleksje związane z tym, co tutaj Mariusia Pijewska proponuje.
+
+A drugie pytanie jest też o to, które z tych obszarów złożymy przykład kłonczący czytacyjną? Bo jeden przykład, ja się na tym zastanawiałam i ja na przykład... Jak jestem najlepsza w mówieniu o swoich potrzebach? Tak? Także to jest tych rzeczy. Jak to potem decydubowałam, jak to się przekłada na pracę fascylitycyjną, bo na przykład to, że jak byłam, chociażby, że w ogóle ja mam poznać potrzebę przerwy, to w ogóle nie wydawałam się, że to nie chcę, tak, by się tak krwią w tym, co bym, żeby zaprochnować przerwę, tak? Bo, no bo w sumie to nie o mnie. Chodzi, ja to jestem, żeby fascylitować. To chodzi o uczestniku. I czasami jest tak, że właśnie z tych ogólnych rzeczy możemy się przyjrzeć z naszej pracy z eksplosywnictwem.
+
+Czyli jak ktoś ma na przykład problem z autorytetem, na przykład jak się w kontakcie z autorytetem nie zachowuje się aspektywnie, no to jak nam się trafi osoba w dupie, autorytet, autorytet, autorytet, autorytet, autorytet, autorytet, autorytet, autorytet, autorytet, autorytet. To jest właśnie ta ogólna nasza taka predyspozycja. Bardzo będzie nam to w prasie fascynacyjną jak do utrudniać. No więc moje pytanie do was jest takie, jaką ogólne wrażenie, ale też szczucujecie, że któryś z tym obszaru właśnie na prasie fascynacyjną można przełożyć.
+
+I co na rzecz ogólnie, właśnie z tydzień własnych pewności potrafię w tej pracy fascynitacyjnej napuścić. To możemy to zapraszam? Bo gdybym mógł otrzymać wątek, to rzeczywiście jest tak, że ja mam problem z wyrażaniem włożenia. Ja w ogóle nie potrafię prosić o pomoc. Pomimo tego, że pracuję w organizacji pomocowej, w jednej i drugiej trzeciej współpracuję z innymi osobami, które potrzebują tej pomocy, sama nie potrafię tego zrobić, żeby poprosić o pomoc.
+
+I to rzeczywiście ja odczuwam w tym momencie naprawdę bardzo do zmęczania. Na przykład ja odczuwam takie bardzo wiele rzeczy. W trapienie, wydzieć z hodów dość, teraz muszę zagłać o siebie, czy to w procesach pracy grupowej, czy to w pracy takiej indywidualnej. Ja wiem, że to jest rzeczywiście mój problem, nad którym powinnam jakoś popracować i nie wiedziałam, że to jest asertywność.
+
+A to, że mam problem z asertywnością, to ja wiediałam, naprawdę. Ale to, że to jest asertywność, to ja nie wiedziałam. I zaskapjący jest dla mnie to, że... że mamy problemy właśnie z autorytetem i to rzeczywiście zostało odkrywione, jeżeli mamy spotkanie grupowe, w której znajdzie się taka osoba. bardzo pewna siebie. Nawet jeżeli ona nie reprezentuje nic głębszego, to ja mam problem, żeby tę osobę nie jako kieł znać w tej grupie.
+
+Ja wiem, że to jest nam nie duży kłopot i że niestety ta osoba zaczyna dominować i to jest złego całego tego procesu, do którego pracujemy. Natomiast zaspokniające jest to, że absolutnie ja mam żaden kłopot wyrażaniem swojej opinii tutaj akurat. To jest dla mnie zaskopujące i też nie widziałam naruszania cię terytorium. Oczywiście jest chyba najbardziej zaskopujący obszar, że jednak nie tylko nasze granice, ale też granice innych osób i że ta sercewność nie tylko o nich, ale też o nich osoba. Ja mam tutaj dwie rzeczy.
+
+Nie raz to jest możliwe, że ktoś coś mówi, ale zanim go dopowiadam, bo już za długo mówię, tak długo, bo reskoń. Więc wiesz, już zakończy się tą przydługą pogabenkę. Ja używam blugaryzmów, jak się złoższa, nie wiedziałam o tym, że w niosie te blugaryzmy ze wewnętrznienia lecą w stosunku do osoby. Więc nie wiem, czy to ma znaczenie, czy nie, ale... To jest tak, że różnie.
+
+Ja jestem też tykusą i jak się kusą, to rzucają mięsem po mnie z pływa, ale... po innej strugach. Tak, ale nie muszę być w osobach wymierzoną, żeby po nich nie spłynęło. Jasne, że sam fakt, że używam takich słów, jest... Przeznamsze tu takie moje pierwsze spostrzeżenia bardzo zaskoczujące. Dzięki w ogóle do tego dziękuję.
+
+To jest wciąż uwagę na to, że jest w szczegóły 10 obszarów i pani... i można się dokładnie przyjrzeć, bo faktycznie ilu nas tutaj jest, tyle nas jest, tyle może być definicja sertywności. No i u mnie to zależy, z jednymi obszarami bardzo fajnie, a z innymi korzej. Z tego, co widzę, u mnie na istotnej obrona swoich prac w sytuacjach społecznych, a jest, a obrończują prac innych. To pierwsza jestem.
+
+Do tego, jakąś takie mam od zawsze to znaczy, że mięśniki, poczucie niezgodne, jakąś taką przemoc, agresję. Nie wiem, to bardzo ale jak właśnie pani w sklepie się wepknie przede mną, to nie może ona ze zjął tłumacze i racjonalizuje to, że o niej się pewnie śpieszy gdzieś albo ona gdzieś tam musi iść, a ja sobie mogę poczekać. I faktycznie jakoś łatwiej mi tak odpuszczać te rzeczy, a myślę, że... Jakby jakimi ludziom towarzyszyć w takim dbaniu o siebie i swoje granice, kiedy sama tego nie robię, więc taka lekcja dla mnie.
+
+Natomiast są małe sukcesy i staram się tym pracować, ale faktycznie zdarzymy się, może w imię świętego spokoju i braku za sobą na dyskusję odpuścić rozmowę. Bo jestem też madiatorem porozumienionym i czasem jak wajdę w rozmowę z jakąś Panią, która uważa, że ma większe prawo do wapchnięcie się w kolejkę, bo to wtedy dochodzimy do tam potrzeb, czego wynika emocji, to trwa pół godziny i czasem ufaj, to się tak rozczaruje.
+
+To jest w ogóle bardzo fajnie przyukładać. Ja miałem problem z tym, z tą kolejką. No bo też mam wrażenie, że jestem bliżej ciebie, czyli też usprawiedliwiam, ale to też niekoniecznie musi być właśnie brak asertywności, to jest kwestia tej suwerenności, czyli rzeczywiście można sobie przekalkulować, że nawet jak ona się nie spieszy, no to po co w ogóle wchodzić i przekazywać jakąś negatywną energię? Bo ta osoba na pewno się zdenerwuje, jak podniosę... Tam jeszcze było napisane głośno uwagę w ogóle, nie? I po co? I może jeszcze osoby, które stoją obok i mają inne rzeczy na głowę, się zdenerwują.
+
+No co mi te pięć minut zbawi? No oczywiście, jeśli ktoś jest butny, przesuwa się albo mówi, że on tu stał, to mi się potrzeba sprawiedliwości. W tym momencie interweniuje. Natomiast tutaj odpuszczam i mam wrażenie, że właśnie to odpuszczanie często jest bardzo fajne. Na przykład odpuściłem ten motyw, w którym zacząłeś się zwracać do kobiet, jesteśmy itd., a stwierdziłem, że nie przeszkadza mi to zupełnie, chociaż jestem jedynym facetem. Mówię, nie będę nas zwracał, uwagi, ale na przykładu podniosłem, więc jakby... Ale nie ma problemu, jakby...
+
+To sobie współprowadzącą. Tak, tak, natomiast ja jestem facetizatorem również i przychodącą, wiesz, jakby... zesję tutaj. Natomiast jakby sam fakt tego, że w ogóle mi to nie przeszkadza, absolutnie, jakby stwierdził, że nie będę przecież zwracał uwagi. Natomiast jeszcze jedna rzecz w ogóle bardzo fajna na którą ten ekscystener, żebyśmy zwrócił uwagę, to to, że ja mam chyba problemy z... podejściem do płci, znaczy inaczej traktuję facetów i kobiety i to nie jest tak, że na jak faktylituje w jakiejś konsultacji społecznej, no to nie udzielam głosu u facetom.
+
+I to myślę gdzie wszystko udziela też w kontekście takiego procesu facilitacyjnego. Jakby facetowi jakoś łatwiej zwrócić uwagę, powiedzieć, że nie, nie, teraz tego nie robimy. Jak jest kobieta, no to tak staram się być bardziej delikatny. No i z jednej strony dobre wychowanie, a z drugiej jednak jest pewna nierówność, nie? No i to tylko taka osobisty komentarz związany z tym, że wywołał taką refleksją. Dziękuję.
+
+Ja się temu pytam, ale tylko jedno zdanie bardzo nie dziwię, bo nie będę się wszystkim pytać, nie no, my równosławimy się z nich, ale kultura, jak by nas na pewno rzeczy nauczyła, i może nawet właśnie, że bardziej pobacy jednej półci, a sercewnie innej nie. To się kojarzę z jakimiś naszymi... po prostu przyzwyczajeniami i socjalizacją.
+
+Ja też bardzo dziękuję za te kryteria, za ten różnorodność właśnie tych pytań, bo też ta aserwityzacja faktyczna nie ma się wieloma obszarami. I tak niby wiemy, ale faktycznie jak to zobaczymy, trzeba to analizować, to co wychodzi takie rzeczy, na które w tym dniu nie padłabym, że to też jak gdyby aserwityzacja ma płyta. Ale zastanawiam się, ja przynajmniej miałam taką refleksję o ten kontakt autorystów TETAi. Jeśli masz odmienne zdanie niż ktoś, kto jest dla Ciebie autorytet, a bo w ogóle tutaj bym powiedziała, że mam odmienne zdanie i czy otwarcie wyraża swoje stanowisko.
+
+Ja czasami świadomie rezyguję, bo wiem, że mam odmienne już i nie chcę po prostu zaczynać tej dyskusji, bo wiem, że ona się skończy po prostu jakąś kłótnią. Tu świadomie z tego rezyguję, więc tutaj bym nie powiedział, jak jest brak a sercewności, raczej wybór, na który się świadomia. Że tak powiem ze sobą zgadzam i więc tutaj bym z tym pytaniem miałam problem.
+
+Nie, że po prostu nie mam takiej potrzeby, żeby tą rozmowę do rozpoczynać przyjęciu procedur zachowały. Teraz jest komfort, jest dyskonfort. Tak, że wiecie jak ja, jak ciło tewek, to nie narusza mój granic.
+
+Natomiast, jeżeli ja potem, wiecie, dwa dni chodzę i już przypominam sobie tę babę w kolejce i sobie myślę, jak ono mógł mnie tak potraktować ciągu, to jest, to znaczy, to naruszyło moja granicę. Najczęściej nie wiem czuć czy to jest... Oj, ludzie się wpychały, nie robi mi.
+
+Czy w tym danym momencie ktoś to robi w taki sposób, że to narusza granicę? Tak więc żebyście sobie, bo to jest czasami taka rzecz, z którą ja się spotykam. Jak rozmawiam o aserptywności z ludźmi, że mówię o jej kujanie.
+
+Powiedziałam tym razem mnie, a ja obiecałam sobie, że już zawsze nad nim tam zaproszenie mam, musi na obiad będę mówić nie. Bo oni powiedziała, a nie, jestem aserptywna. To nie jest takie proste, znaczy... Więc... To mamy religia. Nie wiem, czy tak macie, ale ja czasami tak mam, że coś mam zrobić, czy mam takie... Nie zrobię, to znaczy... Tak, coś, co ja... To jest moja, w tej chwili, ale mam to tak. Może to zrobić, nie mogę odmówić. Nie podpada, wiecie. Jeżeli tu je, że nie chcę... No to ja nawet mogę podjąć, nie chcę, z jakiegoś powodu sobie wywarzy, że zrobię, bo to jest zaznanie do tego, że to jest uratowanie świecowe decydowanie.
+
+Natomiast ja mówię, niech, ale nie wypada. To kto narusza moje granice? Nie mam musiać, co mnie zaprasza na święta, tylko ja sama swoje. Tak? No bo jeżeli ja czuję dyskomfort, no to jest pytanie.
+
+Tu je mimo tego świadomie czy po prostu z automatu. Jak z automatu się na coś godzę, to prawdopodobnie jest jakiś taki mechanizm, który nam tutaj asertywności brusi. No albo ciało nam jest załadowane sygnały.
+
+W ogóle ja myślę, że to już większość osób dobrze zna i kojarzy takich, które pracują relacjami, że generalnie ciało jest szybsze. Tak? I w sensie, że ja czuję różne, w sensie, spięcia, napięcia, tak? Ja na przykład zaciskam szczęki, a mój młodszy brat zaciska piłść. Ja wiem, że on ma dosyć jakby, to znaczy był młodszy, większy, więc uciekałam, jak zaciskał piłść.
+
+Tak? Potem było widać. Ale jeżeli po prostu mam jakieś takie rzeczywiście czasami fizyczne odczucia to to też znaczy coś przekracza moje granice. Tak, to może być też w dłuższej relacji, w ogóle jakieś poległowe, pole napięciowe, coś się tam dzieje, nie zawsze to jest takie oczywiste.
+
+Bardzo często poczujemy jakiś dyskomfort, a nie pojawi się świadoma myśl. Natomiast jak poczujemy ten dyskomfort, a propos tego... co robić? No to tak naprawdę, aby sobie ogarnąć kiedy ja czuję że muszę bronić granicy, tak.
+
+No to po pierwsze jest to komfort, trzeba myśleć, co go powoduje, skąd się on bierze. Czy coś, co ta osoba powiedziała? Czy tą, którą powiedziała? Czy naprawdę sama, samo to, że ta prośba się powtarza a ja prosiłam wcześniej, żeby się nie powtarzała.
+
+To jest nasza robota, która ma na sertywności, ustawianie zasad specjalnych państwa, żeby określić czego potrzebujemy. I jak już wiem skąd to uczucie, to jest też moja robota, żeby nazwać co ja w związku z tym chcę, że się zmieni i to zakomunikować.
+
+To ta dyplomacja, nie mogę mówić, zmieni się bo mnie wkurzasz albo nie podoba mi się ta sytuacja. Ale coś tu czuję, że naruszę moja granica to jest moja robota wiedzieć co i moja robota wiedzieć jak chcesz by się zmieniło i moja robota powiedzieć, fajnie by było wyjaśnić swoją prośbę.
+
+Bo ludzie jako ludzie jakkolwiek jesteśmy wspaniałym gatunkiem, to nie czytamy w myślach. Jak my komuś mówimy rób tak lub inaczej, proszę Cię żeby coś się zmieniło.
+
+To jak damy uzasadnienie czemu, naprawdę jest dużo większa szansa na zrozumienie współpracy z drugiej strony. To jest na przykład w fascylitacyjnych sytuacjach. Ja już od dawna wiem, że na przykład mnie nie powołuje się na zasadę Hej, umawialiśmy się, że nie gadamy w podgrupkach tylko słuchajcie.
+
+W czym życie tam na końcu sali? Tak mnie osobiście jest się trudno wtedy skupić na rozmowę a to dla mnie ważne, że muszę. A co mówię cała grupa inaczej ja się stresuję prowadząc do spotkania. Bo ja mogę się powołać na zasadę tylko w zasadzie nie wiem czy innym to przeszkadza, że ci tam z tyłu się.
+
+Bo ja tak i odnoszę wrażenie, że już jest jak to da się zdarzać ale zobacz jak to się jedzie. Samo na pewno jest kontrakt. Kontrakt. Ale w mojej perspektywie pytaj, dlaczego? Po co są te zasady?
+
+W sensie mówię na przykład zależy mi na tym, w związku z czym proponuję, żebyśmy tak robili. Tak mówię słuchajcie nie wiem, mnie może też szczęści z was na przykład jest trudno się skupić na rozmowie jak są różne rozproszone głosy.
+
+To jest mojej strony propozycja, żebyśmy nie rozmawiali w umolegle podgrupach bo w tym jest ćwiczenie. To jest moja prośba wtedy a nie żądanie się gdzieś cicho. Zasadnieniem najczęściej jest ustanie zrozumieć i respektować te zasady, które tak na twardo nie raz wprowadziliśmy.
+
+One mają zasadnienie tylko jak są wprowadzone jak można nie siedzi w cicho odłoży z telefony i tak dalej. Jest podnosić rękę. Słuchajcie będzie mi łatwiej, jak jest dużo głosów jak będziecie podnosić rękę żebym ja widziała w jakiej kolejności się zgłoszać.
+
+To samo co zgłaszamy się przez podniesienie rąk. Natomiast wyrażone z tej pozycji wiem o co mi chodzi i uzasadniam leczek.
+
+Może też powodować na wspólne, natomiast też jest prawda, jak my razem ustalamy zasady. Jeżeli chcę szybko wprowadzić, żeby krótkie spotkania i szybko wprowadzić, to mówię: ona są ode mnie do mnie. Mam teraz pytanie, czy obrona swoich praw sytuacyjnych społecznych, jak by się tak przekładało w naszej sytuacji fasilitacyjnej? A mogę jeszcze apropo tego co przed sekundą, bo tutaj jest też fajny, tak sobie myślałem, bo ja też pracuję relacją. Mam wrażenie i jakby rozmawiam z osobami przed procesem facji latacyjnymi, przed konsulcją, siedziałam się społecznymi i już jakby trochę mnie lubią za sam starcie, bo się dużo uśmiecham i mówię. I jakby... No dobra, ja ten Pan był miły, nie? I jakby to jest taki trochę motyw, troszkę manipulacja. Okej, w jakimś stopniu, nie? Ale mam wrażenie, że to jest o wiele fajniejsze niż powoływanie się.
+
+Zdecydowaliśmy się na to, że sobie nie przerywamy, nie? Tylko właśnie taki motyw, trochę zagrania tym, że no jednak jestem otwarty i było miło rozmawialiśmy przed. No i potem trochę trudno mi, nie? Czy możesz być uprzejmy, nie? Trochę ten motyw i on naprawdę dosyć fajnie działa. A nie, a nie liczę.
+
+Robotem teraz te zasady atakują. Dzięki. Dzięki. Jeszcze jakieś wrażenia albo gdzieś Was to kontyst tego przekładają? Mi się pojawiło apropo refleksji i bardzo dziękuję za to ustrukturyzowanie tej asertywności.
+
+Nie, ja taka mam powiedzieć. Ale to jest super, bo to tak połkłowało. Nie generalnie myślę, że ja jestem asertywna i to wiedziałam. Natomiast dla mnie ciekawe było też, że ja sobie poziomuję tę asertywność. Na przykład co mi wyszło, że nie do końca potrafię być przyjaciółka będąc asertywna. Jeśli z tym mam problem, to na pewno, bo potem czuję się źle.
+
+To było takie okropowe wykorzystywanie, to tu mam ewidentnie, natomiast to też było w ogóle dla mnie ciekawe, jeśli mogę apropo tego wyrażenia złości wobec mężczyzn i kobiet. Ja to określałam jako problem, ale bardzo często łączę to jak obserwuję też z takim doświadczeniem mimo wszystko gdzieś tam z takiej psychonejzy z dzieciństwa, gdzieś idą te relacje były zaburzone.
+
+To jest coś niesamowitego i fajnie, że to by było w kontekście astraktywności późniejszym zachowania w dorosłym życiu. A teraz apropo patriotacji apropo naruszenia społecznego terytorium, to co Ty mówiłeś, to też mi tu dwa krzyżyki w błyszczały płytku.
+
+A propos i wiedziałem zawsze, że mam z tym problem czy kontynuujesz prowadzenie sprzeczki może druga osoba od dłuższego czasu ma już i dosyć. Wiedziałam, że zawsze miałam z tym problem bardzo trudno mi się ze sobą współpracować w tym kontekście.
+
+I w paselitacji to też często się pojawia że kontynuuję kontekst mimo że to już powinno być skończone. I czasami mam takie wrażenie, że też już męczy grupę. Ja mam potrzeby w konie. Ja mam potrzeby ta osoba też ma potrzeby i jesteśmy wciągnięci obiemi taki krąg i to widzę właśnie w przełożeniu na personalizację, że moje osobiste brak asertywności przekłada się na działanie podczas jakichś spotkań.
+
+O tak. O tak trzyma różne wypowiedzi co taki błąd też To jest serdeczności bo to jest osób które są miłe albo które są ciepłe takie ciepłe relacyjne z problemów do dobrą relację.
+
+To jest zawodowo. To jest też mi łatwo szukać jakiegoś konsensusu to jest relacji. Więc faktycznie to oparcie właśnie o relację. Myślę, że w ogóle jest bardzo też fajne sposobu krzyknięcia tak jak to miałem no się mówię tak to wypełniałam To taką miałam też taką refleksją której dużołości o której jest nas powiedziała.
+
+Tak więc myślę, że taką śladą sobie dzisiaj wioła sobie np 15 landa jak zaczynała swoją dowódla jak życie zawodowe. I tak sobie wytrzymszałam bo to jest totalnie związane z dużołości, jest jakiś poznawaniem siebie i z doświadczeniem więc faktycznie tak jak podskakałam po swojej stokflatce w klatkach różnych różne jakieś doświadczenie.
+
+I też taki To bardzo dziwiło Twoje rozwinięcie to rozbicia w tym późniejszym dziwiło mnie na kobiety i mężczyzn bo mój mózg nie miał tego rozbicia. Ja się kiedyś strasznie w tym przyjechałam bo mój mózg nie miał takiego rozbicia a w otoczeniu społecznym było takie rozbicie.
+
+I na przykład to, że ja mam dobrze zonenacę z mężczyznami ubyć takie korzenie i że zamiast normalne. A jest to na przykład wątpliwość w takiej spoczynku lokalnej odbieramy negatywnie.
+
+I dla mnie to było słuchajcie i że jak ja jestem na osiedlu to ja powinnam rozmawiać, wiecie z tytułami nie? Nie z facetami. Serio, słuchajcie po prostu to coś jakiejś rzeczywistości to takim bardzo lokalnym poziomie życiowym nie? Nie nie wiem co bardzo zawodowej ale takiego potem faktycznie mógł skrywić o to taki płodział płuca wyzwalany, ale faktycznie.
+
+I właśnie tutaj to mnie to zdziwiło tak i też do takiego zdarzenia co to ja myślę jak ja mam wyobrażenie społeczne i jednak w jakim żyję równym społeczności jak i jak one wchodzą. To jest ta reprezentacja która mnie odpowiada.
+
+Widzę że ja mogę rzeczywiście nie rozróżniać znaczy pomóż mi ale to jakimi nas odbiorą. I ta propozycja świadomość tego co dzieje się na wartości na to jak reaguje grupa pracy pasyjitacyjnej dalej bo pracujemy z sobą i relacje uchwaimy.
+
+To nie zmienia faktu że same są z nami jeszcze z nami. I skończyłam że będę po prostu wiecie przynaża standardy tak? W sensie że to jest tutaj.
+
+Jeszcze jakieś refleksje a propos tego co z tego wynika przynoszenia tego na trafę odniosę bo też jakby moje wyrażenie było takie że szerokie szerokie spektrum zachowań które opiszają asertywność ale też właśnie myślałam że może tego że czasami z asertywnością zdecydowanie o niebyciu asertywnym taka że to jednak jest nie jest taki zero jedynkowy tylko po prostu bardziej kontekstowo o tym decyduje jak dla pięciu między...
+
+Z tym założeniem że jedna facilita to że facilitatorka jest w tle tak że ja mam takie widzenie tej osoby jako tej która jest bardziej tym pomocnikiem akuszerem akuszerką niszczą osobom która się jakoś bardzo dzielni.
+
+To jest po stylu to równie ta asertywność to jest faktycznie w momencie gdy... Przekraczam jakby nazwanie tego o sercownością w pracy facilitatora czy facilitatorki to jest właśnie narysowanie takiej granicy gdzie to jest faktycznie dla mnie ważne że to nie jest tak że ja się po prostu oddzielić tylko jakieś moje ważne granice są przekraczone. Czy ja coś tak bardzo tylko?
+
+Ja właśnie jeszcze też mam taką ogólną refleksję, że oprócz tego że przekładam tutaj ten kontekst osobisty na kontekst facilitatorki to jest jedno i tutaj jak gdyby to co już padało jest jak najbardziej tutaj widzę ale jeszcze bym powiedziała że dodatkowo jeszcze dwa o tym asertywność innych też, że tutaj dochodzi ta dodatkowa funkcja że moja sygnażona jest własna.
+
+Tak że jak widzę że kogoś granice są naruszone no to też jakby w roli facilitatora jest widać na to ładnie więc tutaj bym dodatkowo to dołożyła ten komponat.
+
+Jeszcze tu było takie fajne pytanie czy często unikasz wypowiadania twojej prawie tej opinii na jakiś temat z obawy że rozmówca nie nabrał od Tobie niekorzystnego wyobrażenia? I z tym pytaniem mam coraz większy problem dlatego że jestem sobą taką ugodową inktranień lubi skrajnych opinii a cały świat idzie jedną stronę albo drugą stronę.
+
+Tak niestety niestety i on się poszerza i mam syn kłopot bo nie wiem jak się trochę odnaleźć miejscami i odpuszczam w takich sytuacjach znaczy dlatego że nawet jeżeli moja opinia jest w ogóle często wyważona i pomiędzy no to już czasami opinia wyważona i pomiędzy jest krytykowana z jednej i z drugiej nie?
+
+I jakby szczerze w tym przypadku okrać źle. Tak ale wiecie o co chodzi No bo generalnie są krajne opinie nie chcę generalizować ale są często takie przesocone emocjami i tak dalej więc jakby chciałbym, żeby więcej ludzi myślało tak ugodowo i tak bardziej cydrowo, nie pod tym względem.
+
+I teraz i mam z tym kłopot czyli źle się z tym czuje natomiast jednak wiem że go nie przekonam w sensie jakby tak. Powiedzmy robimy w danej sytuacji dialogowań założenie że ja mam próbą osobę przekonać.
+
+Dobra złe słowo Nie chcę go przekonać ale czy ja chcę w ogóle to mówić bo on się poczuje zaatakowany moim podejściem często bo jeżeli ktoś jest bardzo ze skrajnego strony no to jeżeli ja powiem taką opinię no to często jest tak że jednak będzie chciał nas przekonać pewnie tak.
+
+Więc ja nie będę go chciał przekonać ale na przykład powiedzenie już może spowodować jakąś taką reakcję taką a nie inną. No i ja się z tym czuję mimo wszystko źle ale z drugiej strony wiem, że to jest kwestia tego co napisać energii.
+
+Ja w ogóle kiedyś bardzo nie lubiłem tego słowa ale teraz go nie bardzo lubię bo rzeczywiście jest tak przyjaźń się drugą osobę w to...
+
+Lądecki, że to gdzie i z nami zostanie, czy nie lepiej po prostu to odpuścić i popatrzeć, jak to nie zachodzi słońce albo coś takiego. Ale tylko ten, jeżeli rozmowa z tym czy nie zabiera energię, to znaczy, że naruszone są granice.
+
+I teraz ja bym wyobrażał sobie, że czy to jest właśnie być może kwestia powiedzenia czegoś stylu: Wiesz co, wysłucham twojego wdania i teraz zależy mi, żebyś tym wysłuchał mojego. I nawet zaznaczenia nie chodzi mi o to, abyście przekonywać poważne dla mnie, żebym... mógł mieć część wypowiedzi tylko ja myślę. Natomiast to jest bardzo poprawne, asertywnie się narażamy na takie, czy co robisz, bo to jest, to znaczy nie komunikujemy się bardzo asertywnie na co dzień.
+
+Ja z jednej strony na przykład osobiście bardzo rozumiem, bo mnie się z moim dziadkiem nie chcę paszczę odzywać, opierać. Ale czasami czuję, że tu za, za, za, za, ja już nie trzymam i mówię nie po to, aby go przekonać, ale po to, żeby wejść z tego, żebym zaraz o wam powiedziała, tak? I jak on po to próbuje, masz mnie, ja to podobnie, ja nawet nie chcę dyskutować, tylko żeby powiedzieć. Aczkolwiek to nie ma gwarancji, słuchajcie, bycie asertywnymi nie daje gwarancji, że świat to przyjmie spokojnie.
+
+Raczej jak nie przyjmuje tego spokojnie, to znaczy, że dobrze nam idzie za sertywną rzecz. Dla mnie to z czasem, to to wiecie, też nie ma się co mamy prawo być nieasertywnymi w jakichś momentach.
+
+Natomiast... Dobro hola, właśnie muszę zrobić to.
+
+Mówię, że mam prawo być nie, ale mam prawo też mówić tak. Nie zauważam, że to zapewne sytuacja. To jest wchodzimy z tym państwem. Ta sercewność, ta modlienie się nie wypada w pelki naszej, bo sam ma sobie, tak? Musimy być o sercewności.
+
+To jest kolejne przekonanie, które... mi nie służę. Dobra, to tak. Dlatego wątku tylko jeszcze, bo ja też często się właśnie na tym łakam, czy warto, czy nie, znaczy, że warto, nie warto, tylko czasami zastanawiam się dokładnie, czy mam wypowiadać i mi się wydaje, że warto, przynajmniej do takiej reflektji doszłam, że uzależnione też komu, do kogo to mówię, jakimś środowisku i na czym mi zależy. Bo na przykład środowisku rodzinnym czasami warto się pokusić o nawet swoje stanowisko i pokazać swoją perspektywę. Może ona w pierwszym rzucie nie zostanie przyjęta, ale później, jeżeli ktoś ma jakąś rekleksyjność, to może przemyślić i powie, i jak gdyby wrócić do ciebie i powiedzie na razie, że przemyślałem faktycznie widzę tam. Może się nie przekona, ale zobaczą chociaż moją perspektywę, tak samo w służbowych sprawach.
+
+Są osoby, gdzie warto czasami zaryzykować, a czasami warto odpuścić. Jak się reagować czy nie jest nasza. I przed to jest marzeń.
+
+Pierwsza osoba, która u niego spojrzała serce, to jest już ciebie sami.
+
+Słuchajcie, to ja teraz mam dla was jeszcze drugi zestaw, przydatnych rzeczy, więc mam nadzieję, że jako półtorej godziny z napędziami skończymy. Tylko teraz tak, tytułem wprowadzenia.
+
+Bo to, co powiedziałaś, ja bym na razie to puścił, ale zaraz o tego przyjdziemy, że jako, jak było, że jestem tłem, jako facilitator... Tak, że ja jestem, gdzie jestem, akuszerką. Akuszerką był, tak? Tak.
+
+I tylko ja bym filmował, o nie, to jest przekonania. Jestem akuszerką grupy. Jakiegoś przekonania to jest coś, co wiecie, co jest niedokołoświadome, często. Znaczy, nie wyciągamy go tak na wierzch. To jest przykład przekonania, które wpływa na to, jak ja się zachowam, czyli na ile będę aspektowa albo nie wiem jak jest sytuacja.
+
+Ja bym to powiedział tak: jaka osoba facilitatora moją rolą jest, nie w merytorycznej, jak stać, zachować na utrałność merytorycznej, jakby się nie wypowiadać, ale nie jest moją rolą, który rezygnuje i zmień się kogo przewiń swoich rzeczy. Bo właśnie takie przekonanie potrafi... nie muszę merytorycznie czegoś podnosić.
+
+Jestem, a propos tego cyklu, że bronimy graczy silnych osób, to jest pewne przekonanie, że jestem odpowiedzialna za bronię graczy silnych osób. A może jako... i jestem odpowiedzialna za to, żeby sprawdzić, czy gdańce innych osób nie są nawigowane, a one są samodzielne. Więc inne przekonanie.
+
+I teraz te przekonania, właśnie one będą nas prowadzić do jakichś zachowań. Będzie bez tych przekonań wynikać czy my sobie dajemy prawo do jakiegoś zachowania albo nie. I jak chcemy rozwijać swoją asertywność, to generalnie to, co się przydaje, to jest ta praca z przekonaniami. To znaczy złapać sobie, jaki ja mam.
+
+A potem zobaczycie, czy one mnie wspierają, albo czy mnie nie wspierają. Po prostu. Bo jeżeli ja będę gdzieś z tymi przekonaniami ułożona... No to będzie mi łatwiej reagować.
+
+To, co ja mam dla Was, to są właśnie takie listy przekonania. To są bardzo długie. To są, to się nazywa zdanie antyasertywne i chyba proasertywne. Generalnie po nazwie, tak? Te antyasertywne to jest to, co będzie nas raczej uprudniać. Braasertywne to jest to, co będzie mi pomagać.
+
+Ja Was zapraszam, żebyście sobie przyjrzeli, z którymi się zgadzasz, z którymi nie. Ale też, poproszę, bo zmienimy nam parę minut na dialog ze sobą, żebymście spróbowały spróbować. Zostałeś w tej gorzej, czy w sensie jak jest grupa w jedną klinikę.
+
+Dobra, zachęcam na nas, żeby spróbować na końcu dopisać, jak i w co najmniej jedno pro-asertywne zdanie dla siebie jako osobę asyfikującą. Czyli takie, które będzie was wspierało w byciu asertywnym i broniąc pasywowania.
+
+Drugie zaznaczenie, czy ojstań w tej makuńcówkę mostu, czy ojda w skłonym jezowe, jakieś płci adresowane, to na maszyce, żeby nie robić tych popreśników. Każde zdanie jest miks.
+
+Dzień dobry. Pójdziemy tu jakieś inspiracyjne, poprawy asertywne dla... ...ojszego, chcesz się zdawać? ...siebie podkreślić, w czym się zgadza, czy w czym nie. To inspiracja po to, co wspiera, co mnie.
+
+Dziękuję wielkie. Dziękuję. To jest tylko ta namizura, bardzo fajna lista, ale taka lista wycięta. Przekładowa, są rzeczy, które nam pomagają, są rzeczy, które wchwytywają. Dla mnie osobiście odkryłem mi było, że ja na przykład najwięcej kiedy zakończyłam się kapasitizowaniu. Czyli to jest słynne niebycie tu i teraz tylko wyobrażenie sobie, co się stanie. A to się jeszcze nie stało, więc nie ma tu większego sensu.
+
+Tak samo jak nie ma większego sensu rozpominania się, co się wydarzyło kiedyś. Ale na przykład w moim osobistym okresie było, że jakby przestała tak stropizyć, co mi sobie w parku próbowała o sercu, że on to wciąż miała w głowie, ale też bardzo ważne było właśnie, aby najwyżej się skupić na pozbywanie się tych antyasertywnych przekonań, tylko budować te, na przykład to, co mnie wspiera, to, co mi daje prawo do acertywnego zachowania.
+
+Więc moje pytanie do Was jest takie. Po pierwsze w ogóle znowu jak się z tą mistą macie, jak to wam pracuje, jak ona będzie. Ale chciałam was poprosić. To jest bardzo ciekawe to o to, co wam zrozumiesz.
+
+Jedno pro-asertywne zdanie w kontekście pracy facilitacyjnej. Tak? Takie jedno zdanie do tysiąca pracy facilitacyjnej. W sensie was tym wspierać. A znaczy by być asertywnym w tej pracy. Ja nie zacznę, ja spoję to domowe, bo czemu ja tylko zabrać, nie?
+
+Ale słuchajcie, to jakie wyrażania i też myślcie o takim zdaniu, bo to jest coś co ja chciałam, abyśmy sobie skąd zabrały. Zabrały, kali i zabrały, zabrały i zabrały.
+
+No teraz to jeszcze.
+
+Tak, tak, teraz już wiem, że to był błąd, żeby o tym mówić jednak. Nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie, nie To jest moje zdanie. Ja po prostu tu przesadzę.
+
+Dlaczego to jej wciągnęło? Coś palnego i tak dalej. Mam tam jakieś niezręczności od siebie stawić się i żyć, nie?
+
+Tak, to panie zresztą nie traktują taką skłonność po niezręczności.
+
+Jesteście bardziej jako odpowiedzialni, onek dotykają więc. I proszę dać traktować ten sposób. Traktuj ten sposób.
+
+Dobra, słuchajcie, jak u Was. Myślę na tym, jak powiedziałeś, że tu też są pewne założenia. One są takie samoafirmatywne, rozumiem, i to wchodzi na to, że one niekoniecznie muszą się zgodzić z osobą, która rozumie, że to nie jest tak, że ma liczną listę i zakręcić, który nie sobie tam głoga układa. A raczej o to, aby szukać właśnie zasobów mocnych stron tego, co nie może jakichś budować.
+
+Tak, to są też takie asertywne, takie świetne asertywne. To są przepłady, ale szukamy tego, co nas może wspierać, żeby to było. Czyli one też mogą być przekonaniami? Byle było w zgodzie, tak?
+
+Tak, byle było w smoku nie ma.
+
+Przekonaniami jest tak mniejszy nie da narodu.
+
+Tak, trzeba coś poczucie albo nie. Jak nie da się narazem kogoś polubić? To jak ty powiedziałeś o tym wątku, przekony jest mi to bardzo bliskie i przypomniał mi się o istnieniu kart Agnieszki z tej tak jakby przekonania wspierającego, nie wspierające i z moich rozmów doświadczeń wnikliwej często jakby mamy większy arsenał w walce sztychami wspierających.
+
+Jakoś pro-asertywne, gdy je czytałam, miały miejsce w mojej głowie pewne myśli. Wydawało mi się, że nie jest to rzeczywiście dobre podejście, jakby na przykład, że kulturowo, podczas okresu dzieciństwa byłyśmy wychowywane do posłuszeństwa, a nie do indywidualności. Z jednej strony, proszenie o pomoc jest zdaniem mnie umiejętność, a nie słabość.
+
+Budowanie relacji również ma swoje miejsce. W zygmatyzmie indywidualizmu, kiedy wszyscy mamy radzić sobie sami i być oddzielni, nie tworząc wiosek, często wchodzimy do sklepów specjalnie po dwie jajka, a nie poprosimy o pomoc sąsiadki. Jednak w sytuacjach kryzysowych proszenie o pomoc jest kluczowe. Dzięki temu budujemy relacje i ludzie czują się potrzebni sobie nawzajem. Możemy wymieniać zasoby, co zwiększa potencjał i sprawia, że jest to mega sprawa.
+
+Wróciłam do domu od 23 i okazało się, że kolega mnie odbiózł telefon. Klucze do mojego domu były w jego aleji i stałam pod drzwiami, nie wiedząc co robić. Zapukałam więc do sąsiadki - seniorki mojej kochanej, która pozwoliła mi wejść do jej mieszkania, zrobiła herbatę i podładowała telefon. W tym momencie zmusiło to mnie do poproszenia o pomoc, co pomogło w budowaniu relacji.
+
+Proafertywne zdania były dla mnie lepsze niż antyasertywne, choć niektóre były trudno czytelne i przykro. Wiele z nich nie rezonowało ze mną, co było dobrym oświetleniem sytuacji. Przykładowo, zdanie na temat prawa do innej pracy z próbą lub przekonania o własnej przygodności byłoby dla mnie miłe.
+
+Oceniłam też swoje doświadczenie w nowej sytuacji. Dostałam dużo dobrego feedbacku i robię się bardziej kompetentna, choć to jest proces integrowania się z nowymi umiejętnościami. Nie ma prawa popełnić błędu, ale even jeśli popełniam błąd, to nie znaczy, że moja praca nie jest w ogólnej dobrym stanie.
+
+Przykładowo, kiedyś moja sąsiedka skończyła jajka. Nie było już Eli i Pauliny. Ale proafertywne zdania mi się podobały, takie jak prawo do zakłopotania w sytuacjach, gdy nie wiemy, co robić. To jest naturalna reakcja człowieka i ukrywanie tego powoduje problemy.
+
+W ramach Nikłodziału zaprezentowałam komunikację. Wartością byłoby mówienie o zakłopotaniu, jeśli się je doświadcza. Gdy odwagę zdobyję, to skutecznie pomaga mi w trudnych sytuacjach i spotkaniach.
+
+Mamy prawo być zawstydzonym na czymś, ale też powinniśmy być w stanie kupować kościół. To ważne, aby pracować z siebie i relacją, zarówno jako człowiek.
+
+Zakłopotanie często pochodzi od ciała - ogień na szyi i tak dalej. Przerwanie łańcucha reakcji od ciała pomaga nam w tym procesie. Ciało daje nam autentyczność, nawet jeśli jest to odbiór słabości.
+
+Mam prawo do granic i nie powinniśmy się martwić za nie. Przykładowo, mogę powiedzieć, że nie chcę kontynuować rozmowy lub rozmawiać w ten sposób dalej. Podstawienie granic jest kluczowe dla pierwszej absolutnej kwestii - moje prawo do granic jest ważne.
+
+Wszystko to pomaga nam być bardziej autentycznymi i komunikatywnymi.
+
+Teraz widziałam ćwiczą powtarzanie pewnych fraz, ale też wtedy fraz podpalów, jak się stączyłem.
+
+To są raczej takie jakby dwutrzydniowe grupy ten. Natomiast ja jestem absolutnie przekonana, że jakby no właśnie my i to co my myślimy o sobie i za samo świadomość i te przekonania, które będą reprezentować do czego my sobie dajemy prawo, tak? No to to jest to, co jest podstawówką sektywności. To znaczy, że formułki można ćwiczyć tylko mówić.
+
+Wytwiczone formułki jeżeli my będziemy się badać będziemy złościć i tak dalej one jakby nie zadziałają będą złości i agresji czyli naruszenia granic drugiej osoby tak? Zawsze możemy powiedzieć piękne zdanie wiemy jakim to my. One zadziałają jeżeli my o tym żyjemy spokojnie.
+
+Jak zostaniecie niestety bez ćwiczenia formułek na środku ale tutaj w tej czy innej roli że tak naprawdę jednak głębiej wyjść od siebie gdzie są te przekonania do czego mam prawo może nam przekrzydzić ta moja... Zostańście sobie dajcie prawo wtedy już będzie naturalnie.
+
+Dziękuję bardzo. Dziękuję bardzo. Dzień dobry.

@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kampus Kompasu | Asertywność w facylitacji</title>
+  <meta name="description" content="Interaktywny kampus wiedzy na podstawie Skryptorium Głosów: asertywność, granice i praca facylitacyjna.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="ambient" aria-hidden="true">
+    <span class="aura aura-teal"></span>
+    <span class="aura aura-amber"></span>
+    <span class="aura aura-burgundy"></span>
+  </div>
+
+  <header class="topbar">
+    <a class="brand" href="#start">
+      <span class="brand-mark" aria-hidden="true"></span>
+      <span>Kampus Kompasu</span>
+    </a>
+    <nav class="nav-links" aria-label="Nawigacja po kampusie">
+      <a href="#observatorium">3D</a>
+      <a href="#stacje">Stacje</a>
+      <a href="#edukacja">Edukacja</a>
+      <a href="#symulator">Symulator</a>
+      <a href="#autoskan">Autoskan</a>
+      <a href="#interwencje">Interwencje</a>
+      <a href="#kreator">Kreator</a>
+      <a href="#atlas">Atlas</a>
+      <a href="#zrodla">Źródła</a>
+    </nav>
+    <div class="readout" aria-label="Postęp czytania">
+      <div class="readout-compass" aria-hidden="true">
+        <span class="readout-needle" id="readoutNeedle"></span>
+      </div>
+      <div class="readout-text">
+        <span id="readoutLabel">Start</span>
+        <meter id="progressMeter" value="0" min="0" max="100">0%</meter>
+      </div>
+    </div>
+  </header>
+
+  <main id="start">
+    <section class="hero" aria-labelledby="hero-title">
+      <img class="hero-art" src="assets/kampus-diegetyczny-v2.png" alt="" aria-hidden="true">
+      <div class="hero-veils" aria-hidden="true"></div>
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Skryptorium Głosów · kompas · 5 lipca 2026</p>
+          <h1 id="hero-title">Asertywność jako kampus pracy sobą</h1>
+          <p class="lead">
+            To nie jest strona o prostym „mów nie”. To mapa sytuacji, w których osoba facylitująca
+            pilnuje siebie, grupy i procesu: od sygnału w ciele, przez cel spotkania, aż po spokojną interwencję.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#observatorium"><span aria-hidden="true">⌖</span> Wejdź do kampusu</a>
+            <a class="button secondary" href="#symulator"><span aria-hidden="true">◌</span> Sprawdź sytuację</a>
+          </div>
+        </div>
+
+        <div class="console" aria-label="Panel danych materiału">
+          <div class="console-top">
+            <span class="pulse"></span>
+            <span>Aktywna mapa materiału</span>
+          </div>
+          <dl class="metrics">
+            <div><dt>czas</dt><dd>89:14</dd></div>
+            <div><dt>słów</dt><dd>10 500</dd></div>
+            <div><dt>proces</dt><dd>24 kroki</dd></div>
+            <div><dt>metody</dt><dd>7</dd></div>
+          </dl>
+          <div class="signal-stack" aria-label="Główne sygnały">
+            <span style="--level: 92%">świadomość granic</span>
+            <span style="--level: 76%">komunikacja</span>
+            <span style="--level: 68%">elastyczność</span>
+            <span style="--level: 84%">przekonania</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section intro" aria-labelledby="intro-title">
+      <div class="section-heading">
+        <p class="eyebrow">Główna teza</p>
+        <h2 id="intro-title">Narzędzia działają dopiero wtedy, gdy osoba prowadząca jest osadzona.</h2>
+      </div>
+      <div class="thesis-grid">
+        <article>
+          <span>01</span>
+          <h3>Pracujemy sobą</h3>
+          <p>Plan, techniki i format spotkania są ważne, ale w napięciu grupa najpierw spotyka człowieka, nie metodę.</p>
+        </article>
+        <article>
+          <span>02</span>
+          <h3>Ciało daje sygnał</h3>
+          <p>Napięcie, zacisk szczęk, dyskomfort albo poczucie „nie wypada” mówią, że warto sprawdzić granicę.</p>
+        </article>
+        <article>
+          <span>03</span>
+          <h3>Asertywność jest dyplomacją</h3>
+          <p>Nie służy dominacji. Pomaga nazwać zasadę, uzasadnić ją i chronić proces bez naruszania innych.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section observatory" id="observatorium" aria-labelledby="observatory-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Obserwatorium 3D</p>
+          <h2 id="observatory-title">Terytorium, granice i ruch procesu</h2>
+        </div>
+        <p>
+          Kompas poniżej nie jest dekoracją. Każdy punkt odpowiada wątkowi ze skryptu: suwerenności,
+          granicom, zasadom wymiany, autorytetowi, emocjom i przekonaniom. Poruszaj kursorem nad sceną,
+          a układ będzie reagował jak spokojny pulpit pracy.
+        </p>
+      </div>
+      <div class="observatory-shell">
+        <canvas id="territoryCanvas" aria-label="Trójwymiarowa mapa kampusu asertywności"></canvas>
+        <div class="compass-inspector" aria-live="polite">
+          <p class="eyebrow">Aktywny odczyt</p>
+          <h3 id="compassNodeTitle">Proces</h3>
+          <p id="compassNodeText">Obserwatorium podświetla wątek, który aktualnie pracuje na stronie. Możesz też wybrać węzeł ręcznie.</p>
+          <div class="compass-signal" aria-hidden="true"><span id="compassSignalFill"></span></div>
+        </div>
+        <div class="compass-controls" id="compassControls" aria-label="Wybierz wątek obserwatorium">
+          <button type="button" data-compass-node="Suwerenność">Suwerenność</button>
+          <button type="button" data-compass-node="Granice">Granice</button>
+          <button type="button" data-compass-node="Proces">Proces</button>
+          <button type="button" data-compass-node="Relacja">Relacja</button>
+          <button type="button" data-compass-node="Autorytet">Autorytet</button>
+          <button type="button" data-compass-node="Przekonania">Przekonania</button>
+        </div>
+        <div class="orbit-legend" aria-label="Legenda punktów kompasu">
+          <span><i class="dot amber"></i>Suwerenność</span>
+          <span><i class="dot teal"></i>Granice</span>
+          <span><i class="dot cobalt"></i>Proces</span>
+          <span><i class="dot sage"></i>Relacja</span>
+          <span><i class="dot burgundy"></i>Autorytet</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="section stations" id="stacje" aria-labelledby="stations-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Stacje kampusu</p>
+          <h2 id="stations-title">Sześć miejsc, w których materiał naprawdę pracuje</h2>
+        </div>
+        <p>
+          Zamiast przepisywać transkrypt, rozłożyłem nagranie na stacje decyzyjne. Każda stacja zawiera sens,
+          napięcie z praktyki i pytanie, które można zabrać na warsztat.
+        </p>
+      </div>
+      <div class="station-layout">
+        <div class="station-rail" role="tablist" aria-label="Stacje kampusu">
+          <button class="station-tab is-active" type="button" data-station="self">Praca sobą</button>
+          <button class="station-tab" type="button" data-station="goal">Cel jawny i ukryty</button>
+          <button class="station-tab" type="button" data-station="state">Państwo granic</button>
+          <button class="station-tab" type="button" data-station="body">Sygnał ciała</button>
+          <button class="station-tab" type="button" data-station="authority">Autorytet</button>
+          <button class="station-tab" type="button" data-station="belief">Przekonania</button>
+        </div>
+        <article class="station-detail" id="stationDetail" aria-live="polite"></article>
+      </div>
+    </section>
+
+    <section class="section education" id="edukacja" aria-labelledby="education-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Sekcja edukacyjna</p>
+          <h2 id="education-title">Jak przełożyć 89 minut rozmowy na praktykę facylitacji</h2>
+        </div>
+        <p>
+          Ta część rozwija sensy z transkryptu. Nie streszcza ich w trzech hasłach, tylko prowadzi przez mechanikę:
+          co obserwować, jak diagnozować, kiedy interweniować i jak ćwiczyć własne przekonania.
+        </p>
+      </div>
+      <div class="learning-layout">
+        <div class="lesson-tabs" id="lessonTabs" role="tablist" aria-label="Moduły edukacyjne"></div>
+        <article class="lesson-panel" id="lessonPanel" aria-live="polite"></article>
+      </div>
+    </section>
+
+    <section class="section simulator" id="symulator" aria-labelledby="simulator-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Symulator granicy</p>
+          <h2 id="simulator-title">Czy to świadomy wybór, czy automat?</h2>
+        </div>
+        <p>
+          W nagraniu powraca różnica między spokojną decyzją a automatyczną zgodą. Ten panel pomaga nazwać,
+          co właśnie dzieje się w procesie i jaka interwencja będzie proporcjonalna.
+        </p>
+      </div>
+      <div class="simulator-grid">
+        <form class="sim-panel" id="boundaryForm">
+          <label>
+            Dyskomfort w ciele
+            <input type="range" name="body" min="0" max="100" value="45">
+          </label>
+          <label>
+            Automatyczna zgoda
+            <input type="range" name="auto" min="0" max="100" value="35">
+          </label>
+          <label>
+            Wpływ na grupę
+            <input type="range" name="group" min="0" max="100" value="62">
+          </label>
+          <label>
+            Siła autorytetu w sytuacji
+            <input type="range" name="authority" min="0" max="100" value="54">
+          </label>
+          <label>
+            Moja potrzeba
+            <input type="text" name="need" value="równego dostępu do głosu">
+          </label>
+          <label>
+            Co ma się zmienić
+            <input type="text" name="change" value="wracamy do ustalonej rundy">
+          </label>
+        </form>
+        <article class="diagnosis" id="diagnosis" aria-live="polite"></article>
+      </div>
+    </section>
+
+    <section class="section selfcheck" id="autoskan" aria-labelledby="selfcheck-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Autoskan obszarów</p>
+          <h2 id="selfcheck-title">W których obszarach asertywność „ma płytę”?</h2>
+        </div>
+        <p>
+          W nagraniu wraca myśl, że asertywność nie jest jednolita: bywamy asertywni w jednych sytuacjach,
+          a w innych nie. Zaznacz, jak jest u Ciebie. To ćwiczenie refleksyjne, nie test — inspirowane
+          obszarami z treningu asertywności (Maria Król-Fijewska).
+        </p>
+      </div>
+      <div class="selfcheck-layout">
+        <div class="selfcheck-grid" id="selfCheckGrid" aria-label="Obszary asertywności"></div>
+        <article class="selfcheck-result" id="selfCheckResult" aria-live="polite"></article>
+      </div>
+    </section>
+
+    <section class="section interventions" id="interwencje" aria-labelledby="interventions-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Konsola interwencji</p>
+          <h2 id="interventions-title">Sytuacje, które z nagrania przechodzą do praktyki</h2>
+        </div>
+        <p>
+          Poniższe scenariusze są kuratorską wersją wątków ze spotkania: dominacja, podgrupki, potrzeba przerwy,
+          nierówne traktowanie, zmiana planu i praca z autorytetem.
+        </p>
+      </div>
+      <div class="scenario-grid" id="scenarioGrid"></div>
+      <article class="phrase-panel" id="phrasePanel" aria-live="polite"></article>
+    </section>
+
+    <section class="section builder" id="kreator" aria-labelledby="builder-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Kreator formułki</p>
+          <h2 id="builder-title">Złóż proasertywne zdanie</h2>
+        </div>
+        <p>
+          Formułka działa, gdy trzyma schemat: obserwacja → potrzeba → propozycja → powrót do pracy.
+          Wpisz swoje elementy, a kreator ułoży zdanie, które chroni proces bez atakowania osoby.
+        </p>
+      </div>
+      <div class="builder-grid">
+        <form class="builder-panel" id="builderForm">
+          <label>Co widzę (obserwacja)
+            <input type="text" name="observation" value="pojawia się kilka równoległych rozmów">
+          </label>
+          <label>Na czym mi zależy (potrzeba)
+            <input type="text" name="need" value="żeby każdy głos był słyszalny">
+          </label>
+          <label>Co proponuję (zmiana)
+            <input type="text" name="proposal" value="wróćmy do jednej rozmowy na raz">
+          </label>
+          <label>Ton wypowiedzi
+            <select name="tone">
+              <option value="spokojny">spokojny</option>
+              <option value="cieply">ciepły</option>
+              <option value="stanowczy">stanowczy</option>
+            </select>
+          </label>
+        </form>
+        <article class="builder-output" id="builderOutput" aria-live="polite"></article>
+      </div>
+    </section>
+
+    <section class="section flow-section" aria-labelledby="flow-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Mapa procesu</p>
+          <h2 id="flow-title">Od sygnału do interwencji</h2>
+        </div>
+        <p>
+          Poprzednio ta mapa była listą kart. Teraz działa jak ścieżka decyzyjna: wybierz etap i zobacz,
+          co w nim rozpoznajesz, jaki błąd grozi oraz jaka mikropraktyka prowadzi dalej.
+        </p>
+      </div>
+      <div class="process-map" id="processMap">
+        <div class="process-orbit" id="processOrbit" aria-label="Etapy procesu"></div>
+        <article class="process-detail" id="processDetail" aria-live="polite"></article>
+      </div>
+    </section>
+
+    <section class="section atlas" id="atlas" aria-labelledby="atlas-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Atlas pojęć</p>
+          <h2 id="atlas-title">Słownik, ale żywy</h2>
+        </div>
+        <p>
+          Pojęcia z danych graficznych zostały oczyszczone do wersji użytkowej. Wybór pojęcia pokazuje, jak może
+          działać w realnym spotkaniu.
+        </p>
+      </div>
+      <div class="atlas-layout">
+        <div class="concept-grid" id="conceptGrid" aria-label="Rozwijane pojęcia"></div>
+      </div>
+    </section>
+
+    <section class="section source-map-section" aria-labelledby="source-map-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Warstwa źródłowa</p>
+          <h2 id="source-map-title">Surowa mapa Skryptorium</h2>
+        </div>
+        <p>
+          Zachowana grafika SVG pokazuje pierwotny eksport pojęć i metod. Nowy interfejs jest warstwą interpretacji,
+          a nie zastąpieniem źródeł.
+        </p>
+      </div>
+      <img class="source-map" src="kompas-mapa.svg" alt="Źródłowa mapa wiedzy: kompas">
+    </section>
+
+    <section class="section sources" id="zrodla" aria-labelledby="sources-title">
+      <div class="section-heading split">
+        <div>
+          <p class="eyebrow">Źródła lokalne</p>
+          <h2 id="sources-title">Z czego korzysta kampus</h2>
+        </div>
+        <p>
+          Materiał jest wygenerowany z transkrypcji audio. Przed publikacją trzeba ręcznie sprawdzić cytaty,
+          nazwy osób i fragmenty, w których automatyczny zapis mógł zniekształcić sens.
+        </p>
+      </div>
+      <div class="source-list">
+        <a href="skryptorium-snapshot-2026-07-05.html">Snapshot Skryptorium</a>
+        <a href="skryptorium-dane-graficzne-2026-07-05.json">Dane graficzne JSON</a>
+        <a href="01-kompas.md">Opracowanie kompas</a>
+        <a href="kompas-mapa.svg">Mapa SVG</a>
+      </div>
+      <p class="source-note">
+        <strong>Materiał merytoryczny:</strong> Maria Król-Fijewska, <em>Stanowczo, łagodnie, bez lęku</em> —
+        klasyczny podręcznik treningu asertywności, do którego nawiązuje prowadząca. Metafora „państwa”
+        (suwerenność, granice, zasady wymiany, prawo do obrony) należy do tej tradycji. Przykłady użyte
+        w nagraniu (m.in. Korea Płn., Unia Europejska) są ilustracjami mówczyni, nie danymi do cytowania.
+      </p>
+    </section>
+  </main>
+
+  <div class="cursor-aura" id="cursorAura" aria-hidden="true"></div>
+  <button class="to-top" id="toTop" type="button" aria-label="Wróć na górę kampusu"><span aria-hidden="true">⌖</span></button>
+
+  <script src="vendor/three-r149.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
