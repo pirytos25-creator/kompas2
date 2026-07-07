@@ -120,29 +120,6 @@ input {
   white-space: nowrap;
 }
 
-.brand-divider {
-  width: 1px;
-  height: 18px;
-  margin-left: 1px;
-  background: rgba(246, 237, 220, 0.12);
-}
-
-.brand-partner-logo {
-  width: clamp(52px, 4.6vw, 68px);
-  height: 17px;
-  display: block;
-  object-fit: contain;
-  object-position: left center;
-  opacity: 0.38;
-  filter: drop-shadow(0 0 4px rgba(155, 123, 215, 0.12));
-  transition: opacity 180ms ease, filter 180ms ease;
-}
-
-.brand:hover .brand-partner-logo {
-  opacity: 0.58;
-  filter: drop-shadow(0 0 7px rgba(155, 123, 215, 0.22));
-}
-
 .brand-mark {
   width: 28px;
   height: 28px;
@@ -258,6 +235,17 @@ meter::-webkit-meter-optimum-value {
 
 .hero-copy {
   max-width: 860px;
+}
+
+.hero-partner-logo {
+  width: clamp(86px, 8vw, 128px);
+  height: auto;
+  display: block;
+  margin: 0 0 18px;
+  object-fit: contain;
+  object-position: left center;
+  opacity: 0.52;
+  filter: drop-shadow(0 0 8px rgba(155, 123, 215, 0.18));
 }
 
 .eyebrow {
