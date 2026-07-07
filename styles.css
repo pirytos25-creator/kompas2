@@ -120,6 +120,15 @@ input {
   white-space: nowrap;
 }
 
+.brand-logo {
+  width: clamp(148px, 16vw, 206px);
+  height: 40px;
+  display: block;
+  object-fit: contain;
+  object-position: left center;
+  filter: drop-shadow(0 0 10px rgba(155, 123, 215, 0.38));
+}
+
 .brand-mark {
   width: 28px;
   height: 28px;
@@ -1455,30 +1464,6 @@ input[type="text"] {
   box-shadow: var(--shadow);
 }
 
-.sources {
-  background: #050b0f;
-}
-
-.source-list {
-  display: grid;
-  grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: 12px;
-}
-
-.source-list a {
-  min-height: 70px;
-  display: flex;
-  align-items: center;
-  padding: 16px;
-  text-decoration: none;
-  color: rgba(246, 237, 220, 0.82);
-}
-
-.source-list a:hover {
-  border-color: rgba(53, 183, 164, 0.48);
-  color: var(--paper);
-}
-
 @media (max-width: 1080px) {
   .topbar {
     grid-template-columns: 1fr;
@@ -1511,9 +1496,6 @@ input[type="text"] {
   .scenario-grid,
   .flow-track,
   .process-lens,
-  .source-list {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-  }
 
   .process-orbit {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1551,9 +1533,6 @@ input[type="text"] {
   .process-orbit,
   .process-lens,
   .concept-grid,
-  .source-list {
-    grid-template-columns: 1fr;
-  }
 
   .concept-card.is-open {
     grid-column: span 1;
@@ -1996,19 +1975,6 @@ section[id],
 
 @keyframes chargeUp {
   from { --charge: 0%; }
-}
-
-/* Notatka bibliograficzna */
-.source-note {
-  margin: 18px 0 0;
-  padding: 18px 20px;
-  border: 1px solid var(--line);
-  border-left: 4px solid var(--amber);
-  border-radius: 8px;
-  background: rgba(231, 168, 75, 0.06);
-  color: rgba(246, 237, 220, 0.82);
-  line-height: 1.6;
-  font-size: 14.5px;
 }
 
 @media (max-width: 1080px) {
