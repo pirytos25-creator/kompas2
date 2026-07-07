@@ -113,39 +113,11 @@ input {
 
 .brand {
   display: inline-flex;
-  gap: 12px;
+  gap: 10px;
   align-items: center;
   text-decoration: none;
   font-weight: 800;
   white-space: nowrap;
-}
-
-.brand-main {
-  display: inline-flex;
-  gap: 10px;
-  align-items: center;
-}
-
-.brand-divider {
-  width: 1px;
-  height: 24px;
-  background: rgba(246, 237, 220, 0.18);
-}
-
-.brand-logo {
-  width: clamp(86px, 8vw, 118px);
-  height: 28px;
-  display: block;
-  object-fit: contain;
-  object-position: left center;
-  opacity: 0.72;
-  filter: drop-shadow(0 0 8px rgba(155, 123, 215, 0.28));
-  transition: opacity 180ms ease, filter 180ms ease;
-}
-
-.brand:hover .brand-logo {
-  opacity: 0.92;
-  filter: drop-shadow(0 0 11px rgba(155, 123, 215, 0.36));
 }
 
 .brand-mark {
